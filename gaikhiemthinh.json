@@ -1,10 +1,154 @@
 {
   "title": "Kimi wa Yakamashi Tojite yo Kuchi o!",
-  "description": "Hiiragi Tsukino là một cô bạn bị khiếm thính bẩm sinh. Khi cậu ấy chuyển đến trường mới, cậu ấy gặp được một cậu bạn lắm mồm tên Enomoto Taiyou. Tại đây, Tsukino luôn bị xoay tròn bởi những câu chuyện xàm xí của Taiyou bất chấp việc cô không thể nghe được cậu ta nói gì.\n\nLink fanpage của SAM Shelter: https://www.fb.com/samshelter18",
+  "description": "Hiiragi Tsukino là một cô bạn bị khiếm thính bẩm sinh. Khi cậu ấy chuyển đến trường mới, cậu ấy gặp được một cậu bạn lắm mồm tên Enomoto Taiyou. Tại đây, Tsukino luôn bị xoay tròn bởi những câu chuyện xàm xí của Taiyou bất chấp việc cô không thể nghe được cậu ta nói gì.\n\nLink fanpage của SAM Shelter: https://www.fb.com/samshelter18\nLink MangaDex: https://mangadex.org/title/82757478-87b2-4064-a99e-5e628c700956/you-talk-too-much-so-just-shut-it-already",
   "artist": "aldehyde",
   "author": "Morita Shunpei",
   "cover": "https://files.catbox.moe/vbaz8h.png",
   "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1747526710",
+      "groups": {
+        "SAM Shelter ": [
+          "https://files.catbox.moe/gilwmn.png",
+          "https://files.catbox.moe/rg081a.png",
+          "https://files.catbox.moe/8rgm2k.png",
+          "https://files.catbox.moe/3mplb1.png",
+          "https://files.catbox.moe/tpyk98.png",
+          "https://files.catbox.moe/flx98x.png",
+          "https://files.catbox.moe/brl34e.png",
+          "https://files.catbox.moe/jk37j8.png",
+          "https://files.catbox.moe/hwbjfk.png",
+          "https://files.catbox.moe/7onnni.png",
+          "https://files.catbox.moe/prw777.png",
+          "https://files.catbox.moe/ll4we4.png",
+          "https://files.catbox.moe/r0kqzj.png",
+          "https://files.catbox.moe/nst4e1.png",
+          "https://files.catbox.moe/yf36pj.png",
+          "https://files.catbox.moe/y6ruac.png",
+          "https://files.catbox.moe/nsyhyg.png",
+          "https://files.catbox.moe/n4xzyp.png",
+          "https://files.catbox.moe/w4xm98.png",
+          "https://files.catbox.moe/0hrp3w.png",
+          "https://files.catbox.moe/6ltorz.png",
+          "https://files.catbox.moe/1loa31.png",
+          "https://files.catbox.moe/3i1b9x.png"
+        ]
+      }
+    },
+    "2": {
+      "title": "Chương 2",
+      "volume": "1",
+      "last_updated": "1747526689",
+      "groups": {
+        "SAM Shelter ": [
+          "https://files.catbox.moe/j4ggyz.png",
+          "https://files.catbox.moe/672600.png",
+          "https://files.catbox.moe/r5gznb.png",
+          "https://files.catbox.moe/fjglsb.png",
+          "https://files.catbox.moe/2az8xo.png",
+          "https://files.catbox.moe/u33fgs.png",
+          "https://files.catbox.moe/nv4qkn.png",
+          "https://files.catbox.moe/a0uaiq.png",
+          "https://files.catbox.moe/3m28c2.png",
+          "https://files.catbox.moe/dofe6e.png",
+          "https://files.catbox.moe/n5gqr5.png",
+          "https://files.catbox.moe/p4bkdv.png",
+          "https://files.catbox.moe/q6pu5p.png",
+          "https://files.catbox.moe/srq36h.png"
+        ]
+      }
+    },
+    "3": {
+      "title": "Chương 3",
+      "volume": "1",
+      "last_updated": "1747526677",
+      "groups": {
+        "SAM Shelter ": [
+          "https://files.catbox.moe/oyljks.png",
+          "https://files.catbox.moe/c7p4v2.png",
+          "https://files.catbox.moe/udhsf5.png",
+          "https://files.catbox.moe/uoic0y.png",
+          "https://files.catbox.moe/nh2qvh.png",
+          "https://files.catbox.moe/rhf5iz.png",
+          "https://files.catbox.moe/lscrir.png",
+          "https://files.catbox.moe/onwdq4.png",
+          "https://files.catbox.moe/qn5a90.png",
+          "https://files.catbox.moe/ynwpu2.png",
+          "https://files.catbox.moe/vrsb1i.png",
+          "https://files.catbox.moe/7znw6y.png",
+          "https://files.catbox.moe/bo2431.png"
+        ]
+      }
+    },
+    "4": {
+      "title": "Chương 4",
+      "volume": "1",
+      "last_updated": "1747526653",
+      "groups": {
+        "SAM Shelter ": [
+          "https://files.catbox.moe/axksvc.png",
+          "https://files.catbox.moe/mm9w4n.png",
+          "https://files.catbox.moe/p49b60.png",
+          "https://files.catbox.moe/6knf02.png",
+          "https://files.catbox.moe/4bq3t5.png",
+          "https://files.catbox.moe/j2fzrq.png",
+          "https://files.catbox.moe/d5lk9m.png",
+          "https://files.catbox.moe/achuog.png",
+          "https://files.catbox.moe/h3e1xr.png",
+          "https://files.catbox.moe/glo1pa.png",
+          "https://files.catbox.moe/ctp561.png",
+          "https://files.catbox.moe/r5wb6y.png",
+          "https://files.catbox.moe/eruzc4.png"
+        ]
+      }
+    },
+    "5": {
+      "title": "Chương 5",
+      "volume": "1",
+      "last_updated": "1747526628",
+      "groups": {
+        "SAM Shelter ": [
+          "https://files.catbox.moe/tbgzhb.png",
+          "https://files.catbox.moe/c6v2g4.png",
+          "https://files.catbox.moe/z8p5qi.png",
+          "https://files.catbox.moe/4fid5i.png",
+          "https://files.catbox.moe/mapkut.png",
+          "https://files.catbox.moe/37o9s1.png",
+          "https://files.catbox.moe/0w9fx1.png",
+          "https://files.catbox.moe/ncahl8.png",
+          "https://files.catbox.moe/fwg8ij.png",
+          "https://files.catbox.moe/ccrtq5.png",
+          "https://files.catbox.moe/9tk3l4.png",
+          "https://files.catbox.moe/kpkd9i.png",
+          "https://files.catbox.moe/6179cc.png"
+        ]
+      }
+    },
+    "6": {
+      "title": "Chương 6",
+      "volume": "1",
+      "last_updated": "1747526593",
+      "groups": {
+        "SAM Shelter ": [
+          "https://files.catbox.moe/wox1k4.png",
+          "https://files.catbox.moe/nx5nnr.png",
+          "https://files.catbox.moe/oaocc7.png",
+          "https://files.catbox.moe/5ox5u6.png",
+          "https://files.catbox.moe/uga5ui.png",
+          "https://files.catbox.moe/rjdl3w.png",
+          "https://files.catbox.moe/h6gkcr.png",
+          "https://files.catbox.moe/ne8f1c.png",
+          "https://files.catbox.moe/bvbyi8.png",
+          "https://files.catbox.moe/b7oxml.png",
+          "https://files.catbox.moe/i5xzf1.png",
+          "https://files.catbox.moe/e9mq37.png",
+          "https://files.catbox.moe/h96epo.png",
+          "https://files.catbox.moe/7xq4va.png"
+        ]
+      }
+    },
     "7": {
       "title": "Chương 7",
       "volume": "1",
@@ -1219,6 +1363,86 @@
       "groups": {
         "SAM Shelter ": [
           "https://files.catbox.moe/lluics.png"
+        ]
+      }
+    },
+    "10.5": {
+      "title": "Chương 10.5",
+      "volume": "1",
+      "last_updated": "1747526203",
+      "groups": {
+        "SAM Shelter ": [
+          "https://files.catbox.moe/vg1n4v.png"
+        ]
+      }
+    },
+    "9.5": {
+      "title": "Chương 9.5",
+      "volume": "1",
+      "last_updated": "1747526394",
+      "groups": {
+        "SAM Shelter ": [
+          "https://files.catbox.moe/unxfxc.png"
+        ]
+      }
+    },
+    "8.5": {
+      "title": "Chương 8.5",
+      "volume": "1",
+      "last_updated": "1747526416",
+      "groups": {
+        "SAM Shelter ": [
+          "https://files.catbox.moe/i63uml.png"
+        ]
+      }
+    },
+    "7.5": {
+      "title": "Chương 7.5",
+      "volume": "1",
+      "last_updated": "1747526528",
+      "groups": {
+        "SAM Shelter ": [
+          "https://files.catbox.moe/ge97ee.png"
+        ]
+      }
+    },
+    "6.5": {
+      "title": "Chương 6.5",
+      "volume": "1",
+      "last_updated": "1747526572",
+      "groups": {
+        "SAM Shelter ": [
+          "https://files.catbox.moe/r3dnws.png"
+        ]
+      }
+    },
+    "5.5": {
+      "title": "Chương 5.5",
+      "volume": "1",
+      "last_updated": "1747526621",
+      "groups": {
+        "SAM Shelter ": [
+          "https://files.catbox.moe/2wvq60.png"
+        ]
+      }
+    },
+    "4.5": {
+      "title": "Chương 4.5",
+      "volume": "1",
+      "last_updated": "1747526645",
+      "groups": {
+        "SAM Shelter ": [
+          "https://files.catbox.moe/xnvzyu.png"
+        ]
+      }
+    },
+    "3.5": {
+      "title": "Chương 3.5",
+      "volume": "1",
+      "last_updated": "1747526667",
+      "groups": {
+        "SAM Shelter ": [
+          "https://files.catbox.moe/1ivvhb.png"
         ]
       }
     }
