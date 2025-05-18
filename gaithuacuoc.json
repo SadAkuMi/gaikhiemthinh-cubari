@@ -1,6 +1,6 @@
 {
   "title": "Make Heroine ga Oosugiru! @comic",
-  "description": "Heading\n=======\n\nSub-heading\n-----------\n\n# Alternative heading\n\n## Alternative sub-heading",
+  "description": "Heading\n=======\n\nSub-heading\n-----------\n\n# Alternative heading\n\n## Alternative sub-heading\n\n***bold italics***\n\n__underline__\n\n~~Strikethrough~~\n\n__***underline bold italics***__\n\n-# Subtext\n\n[This is Google](https://google.com/)\n\n'look at this one line code block!'",
   "artist": "Itachi",
   "author": "Amamori Takibi",
   "cover": "https://files.catbox.moe/2qwz78.png",
