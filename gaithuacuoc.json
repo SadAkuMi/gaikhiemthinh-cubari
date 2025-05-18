@@ -1,6 +1,6 @@
 {
   "title": "Make Heroine ga Oosugiru! @comic",
-  "description": "Text attributes _italic_, **bold**, `monospace`.\n\nHorizontal rule:\n\n---\nA [link](http://example.com).\n\n![Image](Icon-pictures.png \"icon\")\n\n> Markdown uses email-style\ncharacters for blockquoting.\n>\n> Multiple paragraphs need to be prepended individually.\n\nMost inline <abbr title=\"Hypertext Markup Language\">HTML</abbr> tags are supported.\n\nBullet lists nested within numbered list:\n\n  1. fruits\n     * apple\n     * banana\n  2. vegetables\n     - carrot\n     - broccoli\n\n![Image](https://files.catbox.moe/2qwz78.png)",
+  "description": "A [link](http://example.com).\n\n![Image](Icon-pictures.png \"icon\")\n\n> Markdown uses email-style\ncharacters for blockquoting.\n>\n> Multiple paragraphs need to be prepended individually.\n\nMost inline <abbr title=\"Hypertext Markup Language\">HTML</abbr> tags are supported.\n\nBullet lists nested within numbered list:\n\n  1. fruits\n     * apple\n     * banana\n  2. vegetables\n     - carrot\n     - broccoli\n\n![Image](https://files.catbox.moe/2qwz78.png)",
   "artist": "Itachi",
   "author": "Amamori Takibi",
   "cover": "https://files.catbox.moe/2qwz78.png",
