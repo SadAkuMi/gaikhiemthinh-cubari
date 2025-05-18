@@ -4,5 +4,40 @@
   "artist": "Itachi",
   "author": "Amamori Takibi",
   "cover": "",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Hello, Yanami Anna",
+      "volume": "1",
+      "last_updated": "1747532258",
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/psluxk.png",
+          "https://files.catbox.moe/tw08wg.png",
+          "https://files.catbox.moe/id3jtx.png",
+          "https://files.catbox.moe/fbtatf.png",
+          "https://files.catbox.moe/i03q0e.png",
+          "https://files.catbox.moe/q9aid4.png",
+          "https://files.catbox.moe/vn6sqw.png",
+          "https://files.catbox.moe/3nhf7h.png",
+          "https://files.catbox.moe/1012rk.png",
+          "https://files.catbox.moe/0vshoi.png",
+          "https://files.catbox.moe/l5uepd.png",
+          "https://files.catbox.moe/m1a5uw.png",
+          "https://files.catbox.moe/4rmi92.png",
+          "https://files.catbox.moe/v9i2e1.png",
+          "https://files.catbox.moe/iqgzpj.png",
+          "https://files.catbox.moe/qou9sk.png",
+          "https://files.catbox.moe/woao61.png",
+          "https://files.catbox.moe/plhl3g.png",
+          "https://files.catbox.moe/cd87k5.png",
+          "https://files.catbox.moe/tc0a7b.png",
+          "https://files.catbox.moe/lxi2ol.png",
+          "https://files.catbox.moe/bh6c8t.png",
+          "https://files.catbox.moe/7hmmlh.png",
+          "https://files.catbox.moe/oysc1l.png",
+          "https://files.catbox.moe/wcrhcx.png"
+        ]
+      }
+    }
+  }
 }
