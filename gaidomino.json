@@ -4,5 +4,40 @@
   "artist": "Nichopin",
   "author": "Kuunerin",
   "cover": "https://files.catbox.moe/by6co6.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Chương 1 - Machino-san, Ghét Gái Trong Sáng",
+      "volume": "",
+      "last_updated": "1751166108",
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/rjpc0u.avif",
+          "https://files.catbox.moe/96483w.avif",
+          "https://files.catbox.moe/sgnkn5.avif",
+          "https://files.catbox.moe/xqfarz.avif",
+          "https://files.catbox.moe/k10rb2.avif",
+          "https://files.catbox.moe/150o0j.avif",
+          "https://files.catbox.moe/tnkoq5.avif",
+          "https://files.catbox.moe/gpwbtf.avif",
+          "https://files.catbox.moe/ivkh2i.avif",
+          "https://files.catbox.moe/kf7uwp.avif",
+          "https://files.catbox.moe/d1nfyk.avif",
+          "https://files.catbox.moe/yhat9y.avif",
+          "https://files.catbox.moe/fafsfy.avif",
+          "https://files.catbox.moe/oijm9c.avif",
+          "https://files.catbox.moe/dbforo.avif",
+          "https://files.catbox.moe/nrwhed.avif",
+          "https://files.catbox.moe/khabdo.avif",
+          "https://files.catbox.moe/y6p44t.avif",
+          "https://files.catbox.moe/3fb0nm.avif",
+          "https://files.catbox.moe/v5b0js.avif",
+          "https://files.catbox.moe/jo0urd.avif",
+          "https://files.catbox.moe/6vhvpq.avif",
+          "https://files.catbox.moe/9dsab3.avif",
+          "https://files.catbox.moe/bi1dpb.avif",
+          "https://files.catbox.moe/626akj.avif"
+        ]
+      }
+    }
+  }
 }
