@@ -4,5 +4,80 @@
   "artist": "Hachida Eku",
   "author": "Hachida Eku",
   "cover": "https://files.catbox.moe/3qras2.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Vol 1 Chương 1",
+      "volume": "1",
+      "last_updated": 1751457239,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/0a4r9w.avif",
+          "https://files.catbox.moe/qky9qc.avif",
+          "https://files.catbox.moe/f2clcw.avif",
+          "https://files.catbox.moe/0gboib.avif",
+          "https://files.catbox.moe/rn00w5.avif",
+          "https://files.catbox.moe/ey93ro.avif",
+          "https://files.catbox.moe/0t8rsp.avif",
+          "https://files.catbox.moe/nfy512.avif",
+          "https://files.catbox.moe/umeic0.avif",
+          "https://files.catbox.moe/ismnne.avif",
+          "https://files.catbox.moe/n110zs.avif",
+          "https://files.catbox.moe/9hf3g1.avif",
+          "https://files.catbox.moe/ntloxm.avif",
+          "https://files.catbox.moe/nbkz47.avif",
+          "https://files.catbox.moe/3wyy8v.avif",
+          "https://files.catbox.moe/h9bb3o.avif",
+          "https://files.catbox.moe/7kmowd.avif",
+          "https://files.catbox.moe/tm8y56.avif",
+          "https://files.catbox.moe/gwzvfp.avif",
+          "https://files.catbox.moe/qkya1j.avif",
+          "https://files.catbox.moe/ubxccz.avif",
+          "https://files.catbox.moe/l5vs9n.avif",
+          "https://files.catbox.moe/hqkt41.avif",
+          "https://files.catbox.moe/m8udll.avif",
+          "https://files.catbox.moe/jxp2oc.avif",
+          "https://files.catbox.moe/4639sg.avif",
+          "https://files.catbox.moe/gygr2n.avif",
+          "https://files.catbox.moe/ywsjqw.avif",
+          "https://files.catbox.moe/nnbnfy.avif",
+          "https://files.catbox.moe/s41abf.avif",
+          "https://files.catbox.moe/nrazu0.avif",
+          "https://files.catbox.moe/422uoe.avif",
+          "https://files.catbox.moe/0u0jef.avif",
+          "https://files.catbox.moe/kw13wk.avif"
+        ]
+      }
+    },
+    "2": {
+      "title": "Vol 1 Chương 2",
+      "volume": "1",
+      "last_updated": 1751457239,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/cmw0yq.avif",
+          "https://files.catbox.moe/i1f20z.avif",
+          "https://files.catbox.moe/wb938g.avif",
+          "https://files.catbox.moe/ptxck5.avif",
+          "https://files.catbox.moe/3e711z.avif",
+          "https://files.catbox.moe/eoipbi.avif",
+          "https://files.catbox.moe/abrjma.avif",
+          "https://files.catbox.moe/gq6tb0.avif",
+          "https://files.catbox.moe/5sxchf.avif",
+          "https://files.catbox.moe/fac17r.avif",
+          "https://files.catbox.moe/6ifwq4.avif",
+          "https://files.catbox.moe/nbsw03.avif",
+          "https://files.catbox.moe/sp7acm.avif",
+          "https://files.catbox.moe/pg31a7.avif",
+          "https://files.catbox.moe/969xho.avif",
+          "https://files.catbox.moe/xhqx5w.avif",
+          "https://files.catbox.moe/lonumt.avif",
+          "https://files.catbox.moe/rw9hw5.avif",
+          "https://files.catbox.moe/hkjdox.avif",
+          "https://files.catbox.moe/r8p2dd.avif",
+          "https://files.catbox.moe/y4r16c.avif",
+          "https://files.catbox.moe/ty378k.avif"
+        ]
+      }
+    }
+  }
 }
