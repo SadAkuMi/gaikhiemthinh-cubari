@@ -6,1443 +6,1571 @@
   "cover": "https://files.catbox.moe/vbaz8h.png",
   "chapters": {
     "1": {
-      "title": "1",
+      "title": "Vol 1 Chap 1",
       "volume": "1",
-      "last_updated": "1747526710",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/gilwmn.png",
-          "https://files.catbox.moe/rg081a.png",
-          "https://files.catbox.moe/8rgm2k.png",
-          "https://files.catbox.moe/3mplb1.png",
-          "https://files.catbox.moe/tpyk98.png",
-          "https://files.catbox.moe/flx98x.png",
-          "https://files.catbox.moe/brl34e.png",
-          "https://files.catbox.moe/jk37j8.png",
-          "https://files.catbox.moe/hwbjfk.png",
-          "https://files.catbox.moe/7onnni.png",
-          "https://files.catbox.moe/prw777.png",
-          "https://files.catbox.moe/ll4we4.png",
-          "https://files.catbox.moe/r0kqzj.png",
-          "https://files.catbox.moe/nst4e1.png",
-          "https://files.catbox.moe/yf36pj.png",
-          "https://files.catbox.moe/y6ruac.png",
-          "https://files.catbox.moe/nsyhyg.png",
-          "https://files.catbox.moe/n4xzyp.png",
-          "https://files.catbox.moe/w4xm98.png",
-          "https://files.catbox.moe/0hrp3w.png",
-          "https://files.catbox.moe/6ltorz.png",
-          "https://files.catbox.moe/1loa31.png",
-          "https://files.catbox.moe/3i1b9x.png"
-        ]
-      }
-    },
-    "2": {
-      "title": "Chương 2",
-      "volume": "1",
-      "last_updated": "1747526689",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/j4ggyz.png",
-          "https://files.catbox.moe/672600.png",
-          "https://files.catbox.moe/r5gznb.png",
-          "https://files.catbox.moe/fjglsb.png",
-          "https://files.catbox.moe/2az8xo.png",
-          "https://files.catbox.moe/u33fgs.png",
-          "https://files.catbox.moe/nv4qkn.png",
-          "https://files.catbox.moe/a0uaiq.png",
-          "https://files.catbox.moe/3m28c2.png",
-          "https://files.catbox.moe/dofe6e.png",
-          "https://files.catbox.moe/n5gqr5.png",
-          "https://files.catbox.moe/p4bkdv.png",
-          "https://files.catbox.moe/q6pu5p.png",
-          "https://files.catbox.moe/srq36h.png"
-        ]
-      }
-    },
-    "3": {
-      "title": "Chương 3",
-      "volume": "1",
-      "last_updated": "1747526677",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/oyljks.png",
-          "https://files.catbox.moe/c7p4v2.png",
-          "https://files.catbox.moe/udhsf5.png",
-          "https://files.catbox.moe/uoic0y.png",
-          "https://files.catbox.moe/nh2qvh.png",
-          "https://files.catbox.moe/rhf5iz.png",
-          "https://files.catbox.moe/lscrir.png",
-          "https://files.catbox.moe/onwdq4.png",
-          "https://files.catbox.moe/qn5a90.png",
-          "https://files.catbox.moe/ynwpu2.png",
-          "https://files.catbox.moe/vrsb1i.png",
-          "https://files.catbox.moe/7znw6y.png",
-          "https://files.catbox.moe/bo2431.png"
-        ]
-      }
-    },
-    "4": {
-      "title": "Chương 4",
-      "volume": "1",
-      "last_updated": "1747526653",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/axksvc.png",
-          "https://files.catbox.moe/mm9w4n.png",
-          "https://files.catbox.moe/p49b60.png",
-          "https://files.catbox.moe/6knf02.png",
-          "https://files.catbox.moe/4bq3t5.png",
-          "https://files.catbox.moe/j2fzrq.png",
-          "https://files.catbox.moe/d5lk9m.png",
-          "https://files.catbox.moe/achuog.png",
-          "https://files.catbox.moe/h3e1xr.png",
-          "https://files.catbox.moe/glo1pa.png",
-          "https://files.catbox.moe/ctp561.png",
-          "https://files.catbox.moe/r5wb6y.png",
-          "https://files.catbox.moe/eruzc4.png"
-        ]
-      }
-    },
-    "5": {
-      "title": "Chương 5",
-      "volume": "1",
-      "last_updated": "1747526628",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/tbgzhb.png",
-          "https://files.catbox.moe/c6v2g4.png",
-          "https://files.catbox.moe/z8p5qi.png",
-          "https://files.catbox.moe/4fid5i.png",
-          "https://files.catbox.moe/mapkut.png",
-          "https://files.catbox.moe/37o9s1.png",
-          "https://files.catbox.moe/0w9fx1.png",
-          "https://files.catbox.moe/ncahl8.png",
-          "https://files.catbox.moe/fwg8ij.png",
-          "https://files.catbox.moe/ccrtq5.png",
-          "https://files.catbox.moe/9tk3l4.png",
-          "https://files.catbox.moe/kpkd9i.png",
-          "https://files.catbox.moe/6179cc.png"
-        ]
-      }
-    },
-    "6": {
-      "title": "Chương 6",
-      "volume": "1",
-      "last_updated": "1747526593",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/wox1k4.png",
-          "https://files.catbox.moe/nx5nnr.png",
-          "https://files.catbox.moe/oaocc7.png",
-          "https://files.catbox.moe/5ox5u6.png",
-          "https://files.catbox.moe/uga5ui.png",
-          "https://files.catbox.moe/rjdl3w.png",
-          "https://files.catbox.moe/h6gkcr.png",
-          "https://files.catbox.moe/ne8f1c.png",
-          "https://files.catbox.moe/bvbyi8.png",
-          "https://files.catbox.moe/b7oxml.png",
-          "https://files.catbox.moe/i5xzf1.png",
-          "https://files.catbox.moe/e9mq37.png",
-          "https://files.catbox.moe/h96epo.png",
-          "https://files.catbox.moe/7xq4va.png"
-        ]
-      }
-    },
-    "7": {
-      "title": "Chương 7",
-      "volume": "1",
-      "last_updated": "1747499972",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/043v8f.png",
-          "https://files.catbox.moe/g45ol1.png",
-          "https://files.catbox.moe/7uk1sd.png",
-          "https://files.catbox.moe/f34khm.png",
-          "https://files.catbox.moe/2ym5yg.png",
-          "https://files.catbox.moe/cpyrau.png",
-          "https://files.catbox.moe/ad8hpa.png",
-          "https://files.catbox.moe/2d9p1k.png",
-          "https://files.catbox.moe/i4azbz.png",
-          "https://files.catbox.moe/keefsg.png",
-          "https://files.catbox.moe/lqhgma.png",
-          "https://files.catbox.moe/3fow5o.png",
-          "https://files.catbox.moe/b2oq7w.png",
-          "https://files.catbox.moe/3klbd6.png"
-        ]
-      }
-    },
-    "8": {
-      "title": "Chương 8",
-      "volume": "1",
-      "last_updated": "1747499982",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/sv172b.png",
-          "https://files.catbox.moe/bwvmq4.png",
-          "https://files.catbox.moe/t9y4h9.png",
-          "https://files.catbox.moe/hkmmu4.png",
-          "https://files.catbox.moe/gg84b1.png",
-          "https://files.catbox.moe/i9hsl5.png",
-          "https://files.catbox.moe/fdny7b.png",
-          "https://files.catbox.moe/u92hjg.png",
-          "https://files.catbox.moe/gvkb1w.png",
-          "https://files.catbox.moe/9vgjg7.png",
-          "https://files.catbox.moe/rju5db.png",
-          "https://files.catbox.moe/v5ch1u.png",
-          "https://files.catbox.moe/sbdcjd.png",
-          "https://files.catbox.moe/nqlcbi.png",
-          "https://files.catbox.moe/9kieww.png"
-        ]
-      }
-    },
-    "9": {
-      "title": "Chương 9",
-      "volume": "1",
-      "last_updated": "1747499994",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/vz2wor.png",
-          "https://files.catbox.moe/qqg8hw.png",
-          "https://files.catbox.moe/h5f4uo.png",
-          "https://files.catbox.moe/8ziz0u.png",
-          "https://files.catbox.moe/7ctys5.png",
-          "https://files.catbox.moe/mkc3zq.png",
-          "https://files.catbox.moe/d7184s.png",
-          "https://files.catbox.moe/2dmjv0.png",
-          "https://files.catbox.moe/fj5a8x.png",
-          "https://files.catbox.moe/o5t4ur.png",
-          "https://files.catbox.moe/592zfq.png",
-          "https://files.catbox.moe/dfiuw7.png",
-          "https://files.catbox.moe/eecdkq.png"
-        ]
-      }
-    },
-    "10": {
-      "title": "Chương 10",
-      "volume": "1",
-      "last_updated": "1747499786",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/phz05r.png",
-          "https://files.catbox.moe/lrn7xs.png",
-          "https://files.catbox.moe/64jzxn.png",
-          "https://files.catbox.moe/8ujek4.png",
-          "https://files.catbox.moe/u0jrky.png",
-          "https://files.catbox.moe/iyxka4.png",
-          "https://files.catbox.moe/92jnwk.png",
-          "https://files.catbox.moe/qrbzie.png",
-          "https://files.catbox.moe/yrhgit.png",
-          "https://files.catbox.moe/uqrs2r.png",
-          "https://files.catbox.moe/4z7afr.png",
-          "https://files.catbox.moe/cxpfvs.png",
-          "https://files.catbox.moe/enmn7w.png"
-        ]
-      }
-    },
-    "11": {
-      "title": "Chương 11",
-      "volume": "2",
-      "last_updated": "1747499809",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/jtsex9.png",
-          "https://files.catbox.moe/9flqb3.png",
-          "https://files.catbox.moe/fi6ndv.png",
-          "https://files.catbox.moe/r929a8.png",
-          "https://files.catbox.moe/sy0483.png",
-          "https://files.catbox.moe/ztxlv6.png",
-          "https://files.catbox.moe/glotni.png",
-          "https://files.catbox.moe/je1s4h.png",
-          "https://files.catbox.moe/jiap91.png",
-          "https://files.catbox.moe/jj1xhg.png",
-          "https://files.catbox.moe/fha3ja.png",
-          "https://files.catbox.moe/xgth2z.png",
-          "https://files.catbox.moe/4m2a1a.png"
-        ]
-      }
-    },
-    "12": {
-      "title": "Chương 12",
-      "volume": "2",
-      "last_updated": "1747499825",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/z7cnew.png",
-          "https://files.catbox.moe/edgege.png",
-          "https://files.catbox.moe/jv2c3c.png",
-          "https://files.catbox.moe/furcol.png",
-          "https://files.catbox.moe/cxbhue.png",
-          "https://files.catbox.moe/8wozhq.png",
-          "https://files.catbox.moe/yjy1us.png",
-          "https://files.catbox.moe/wzxzpe.png",
-          "https://files.catbox.moe/y0wa9s.png",
-          "https://files.catbox.moe/ngfviu.png",
-          "https://files.catbox.moe/mcnym2.png",
-          "https://files.catbox.moe/dtwls9.png",
-          "https://files.catbox.moe/zh59jw.png"
-        ]
-      }
-    },
-    "13": {
-      "title": "Chương 13",
-      "volume": "2",
-      "last_updated": "1747499837",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/51tj3y.png",
-          "https://files.catbox.moe/mcpvjc.png",
-          "https://files.catbox.moe/e0lmqp.png",
-          "https://files.catbox.moe/8kbsvi.png",
-          "https://files.catbox.moe/pduh10.png",
-          "https://files.catbox.moe/bckmxn.png",
-          "https://files.catbox.moe/zcyo0x.png",
-          "https://files.catbox.moe/j88sd9.png",
-          "https://files.catbox.moe/xuzo71.png",
-          "https://files.catbox.moe/g7x4ut.png",
-          "https://files.catbox.moe/xzwyb1.png"
-        ]
-      }
-    },
-    "14": {
-      "title": "Chương 14",
-      "volume": "2",
-      "last_updated": "1747499863",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/zno12c.png",
-          "https://files.catbox.moe/0nr4pm.png",
-          "https://files.catbox.moe/bectj2.png",
-          "https://files.catbox.moe/xkf4xy.png",
-          "https://files.catbox.moe/kj0nz4.png",
-          "https://files.catbox.moe/36tjyj.png",
-          "https://files.catbox.moe/4l2iwb.png",
-          "https://files.catbox.moe/xuwlvm.png",
-          "https://files.catbox.moe/e42eh6.png",
-          "https://files.catbox.moe/m8jicd.png",
-          "https://files.catbox.moe/8cshdg.png",
-          "https://files.catbox.moe/hl76le.png"
-        ]
-      }
-    },
-    "15": {
-      "title": "Chương 15",
-      "volume": "2",
-      "last_updated": "1747499888",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/lo7a5b.png",
-          "https://files.catbox.moe/lme0xv.png",
-          "https://files.catbox.moe/nyr3uy.png",
-          "https://files.catbox.moe/y8yebq.png",
-          "https://files.catbox.moe/zs6shq.png",
-          "https://files.catbox.moe/gbnqpt.png",
-          "https://files.catbox.moe/qpsl1q.png",
-          "https://files.catbox.moe/uzzkg2.png",
-          "https://files.catbox.moe/jyplt7.png",
-          "https://files.catbox.moe/21lyl0.png",
-          "https://files.catbox.moe/rkx7tj.png",
-          "https://files.catbox.moe/ez97mw.png",
-          "https://files.catbox.moe/5pdmxy.png",
-          "https://files.catbox.moe/890ivd.png",
-          "https://files.catbox.moe/mzhebc.png",
-          "https://files.catbox.moe/0aucza.png"
-        ]
-      }
-    },
-    "16": {
-      "title": "Chương 16",
-      "volume": "2",
-      "last_updated": "1747499906",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/1viiwd.png",
-          "https://files.catbox.moe/0d8xpt.png",
-          "https://files.catbox.moe/j0pvq4.png",
-          "https://files.catbox.moe/9pp4aw.png",
-          "https://files.catbox.moe/09y4vw.png",
-          "https://files.catbox.moe/7e4sre.png",
-          "https://files.catbox.moe/04klyf.png",
-          "https://files.catbox.moe/3jva7h.png",
-          "https://files.catbox.moe/9gw12z.png",
-          "https://files.catbox.moe/rs3zy8.png",
-          "https://files.catbox.moe/i636lf.png",
-          "https://files.catbox.moe/7hyobo.png",
-          "https://files.catbox.moe/3ubw8r.png"
-        ]
-      }
-    },
-    "17": {
-      "title": "Chương 17",
-      "volume": "2",
-      "last_updated": "1747499919",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/kiobx4.png",
-          "https://files.catbox.moe/y4rbim.png",
-          "https://files.catbox.moe/6akfco.png",
-          "https://files.catbox.moe/u59pyt.png",
-          "https://files.catbox.moe/5fot37.png",
-          "https://files.catbox.moe/sxgwnt.png",
-          "https://files.catbox.moe/kkhl80.png",
-          "https://files.catbox.moe/fsdydo.png",
-          "https://files.catbox.moe/q82vkf.png",
-          "https://files.catbox.moe/netvmu.png",
-          "https://files.catbox.moe/fjypzf.png",
-          "https://files.catbox.moe/5mrwel.png",
-          "https://files.catbox.moe/dnklyq.png",
-          "https://files.catbox.moe/nz0w0p.png"
-        ]
-      }
-    },
-    "18": {
-      "title": "Chương 18",
-      "volume": "2",
-      "last_updated": "1747499935",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/5zceoo.png",
-          "https://files.catbox.moe/v61uxs.png",
-          "https://files.catbox.moe/p661fv.png",
-          "https://files.catbox.moe/nqk30w.png",
-          "https://files.catbox.moe/1p67ez.png",
-          "https://files.catbox.moe/7p81hh.png",
-          "https://files.catbox.moe/tjf607.png",
-          "https://files.catbox.moe/gq8uic.png",
-          "https://files.catbox.moe/dmmsf2.png",
-          "https://files.catbox.moe/0ntoj5.png",
-          "https://files.catbox.moe/iputmp.png",
-          "https://files.catbox.moe/t10l20.png",
-          "https://files.catbox.moe/5hci5h.png",
-          "https://files.catbox.moe/p6c2j5.gif",
-          "https://files.catbox.moe/3zxi0p.png"
-        ]
-      }
-    },
-    "19": {
-      "title": "Chương 19",
-      "volume": "2",
-      "last_updated": "1747499427",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/6i8a97.png",
-          "https://files.catbox.moe/kk6olr.png",
-          "https://files.catbox.moe/wywblc.png",
-          "https://files.catbox.moe/u5vk4r.png",
-          "https://files.catbox.moe/8hm57m.png",
-          "https://files.catbox.moe/pxdmjt.png",
-          "https://files.catbox.moe/382jk8.png",
-          "https://files.catbox.moe/mv56gs.png",
-          "https://files.catbox.moe/yrwssu.png",
-          "https://files.catbox.moe/7trfj7.png",
-          "https://files.catbox.moe/ifeno3.png",
-          "https://files.catbox.moe/r0wf30.png",
-          "https://files.catbox.moe/abi6r1.png",
-          "https://files.catbox.moe/rto0qu.gif"
-        ]
-      }
-    },
-    "22": {
-      "title": "Chương 22",
-      "volume": "3",
-      "last_updated": "1747496417",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/yvqwt0.png",
-          "https://files.catbox.moe/w1g07x.png",
-          "https://files.catbox.moe/bhic1t.png",
-          "https://files.catbox.moe/2jia2h.png",
-          "https://files.catbox.moe/l7gq78.png",
-          "https://files.catbox.moe/aik0sx.png",
-          "https://files.catbox.moe/7gxjnv.png",
-          "https://files.catbox.moe/syarmv.png",
-          "https://files.catbox.moe/80w0i0.png",
-          "https://files.catbox.moe/0zz5cg.png"
-        ]
-      }
-    },
-    "23": {
-      "title": "Chương 23",
-      "volume": "3",
-      "last_updated": "1747496384",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/lge1i6.png",
-          "https://files.catbox.moe/lcytee.png",
-          "https://files.catbox.moe/xst6vp.png",
-          "https://files.catbox.moe/gpiad9.png",
-          "https://files.catbox.moe/i4dm1i.png"
-        ]
-      }
-    },
-    "24": {
-      "title": "Chương 24",
-      "volume": "3",
-      "last_updated": "1747496351",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/b14q8s.png",
-          "https://files.catbox.moe/rrcyk3.png",
-          "https://files.catbox.moe/i5ra2h.png",
-          "https://files.catbox.moe/gvx7gm.png",
-          "https://files.catbox.moe/ihrktv.png"
-        ]
-      }
-    },
-    "25": {
-      "title": "Chương 25",
-      "volume": "3",
-      "last_updated": "1747496320",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/qdyqwq.png",
-          "https://files.catbox.moe/8uvf3b.png",
-          "https://files.catbox.moe/ylgh6r.png",
-          "https://files.catbox.moe/w31suy.png",
-          "https://files.catbox.moe/1ttz5d.png",
-          "https://files.catbox.moe/nf4ykj.png",
-          "https://files.catbox.moe/yzma4x.png",
-          "https://files.catbox.moe/db25mr.png",
-          "https://files.catbox.moe/kt5p86.png",
-          "https://files.catbox.moe/aw9e33.png"
-        ]
-      }
-    },
-    "26": {
-      "title": "Chương 26",
-      "volume": "3",
-      "last_updated": "1747496237",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/zpyoh8.png",
-          "https://files.catbox.moe/v50u7a.png",
-          "https://files.catbox.moe/dxf8tq.png",
-          "https://files.catbox.moe/menh5d.png",
-          "https://files.catbox.moe/etr5a9.png",
-          "https://files.catbox.moe/ii9joj.png",
-          "https://files.catbox.moe/zog0jz.png",
-          "https://files.catbox.moe/yxkbl1.png",
-          "https://files.catbox.moe/nqcp5y.png",
-          "https://files.catbox.moe/kmgjfx.png",
-          "https://files.catbox.moe/sp0da7.png",
-          "https://files.catbox.moe/3lgj0i.png",
-          "https://files.catbox.moe/fsphf0.png",
-          "https://files.catbox.moe/eyyax7.png",
-          "https://files.catbox.moe/s6uhun.png"
-        ]
-      }
-    },
-    "27": {
-      "title": "Chương 27",
-      "volume": "3",
-      "last_updated": "1747496087",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/bs9du1.png",
-          "https://files.catbox.moe/su2qok.png",
-          "https://files.catbox.moe/sy2icf.png",
-          "https://files.catbox.moe/dt9khb.png",
-          "https://files.catbox.moe/smyrbf.png",
-          "https://files.catbox.moe/44gh4c.png",
-          "https://files.catbox.moe/febzx1.png",
-          "https://files.catbox.moe/3yaxue.png",
-          "https://files.catbox.moe/cpvt9i.png",
-          "https://files.catbox.moe/27ic5k.png",
-          "https://files.catbox.moe/3ihyzw.png",
-          "https://files.catbox.moe/t587zd.png",
-          "https://files.catbox.moe/jrw6xk.gif"
-        ]
-      }
-    },
-    "28": {
-      "title": "Chương 28",
-      "volume": "3",
-      "last_updated": "1747495890",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/2mwkej.png",
-          "https://files.catbox.moe/v0o9un.png",
-          "https://files.catbox.moe/5gsddq.png",
-          "https://files.catbox.moe/jl5vta.png",
-          "https://files.catbox.moe/7rhcdm.png",
-          "https://files.catbox.moe/o2ifcp.png",
-          "https://files.catbox.moe/e0tqst.png",
-          "https://files.catbox.moe/r4xnxo.png",
-          "https://files.catbox.moe/yga160.png",
-          "https://files.catbox.moe/2etlgz.png"
-        ]
-      }
-    },
-    "29": {
-      "title": "Chương 29",
-      "volume": "3",
-      "last_updated": "1747495848",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/p91x35.png",
-          "https://files.catbox.moe/5jivyf.png",
-          "https://files.catbox.moe/rzdtcy.png",
-          "https://files.catbox.moe/bpskm2.png",
-          "https://files.catbox.moe/uav702.png",
-          "https://files.catbox.moe/whju3r.png",
-          "https://files.catbox.moe/cqckuu.png",
-          "https://files.catbox.moe/cbfk0o.png",
-          "https://files.catbox.moe/p611pi.png",
-          "https://files.catbox.moe/p8byw3.png",
-          "https://files.catbox.moe/cpz57z.png",
-          "https://files.catbox.moe/itua5p.png",
-          "https://files.catbox.moe/4yj7dv.png",
-          "https://files.catbox.moe/c2kiws.gif",
-          "https://files.catbox.moe/npmbul.gif",
-          "https://files.catbox.moe/q6anxx.gif",
-          "https://files.catbox.moe/xduq29.gif"
-        ]
-      }
-    },
-    "30": {
-      "title": "Chương 30",
-      "volume": "3",
-      "last_updated": "1747495015",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/6z1n38.png",
-          "https://files.catbox.moe/f6ybmj.png",
-          "https://files.catbox.moe/c0itrl.png",
-          "https://files.catbox.moe/paq8rd.png",
-          "https://files.catbox.moe/ju30qe.png",
-          "https://files.catbox.moe/nggdko.png",
-          "https://files.catbox.moe/kdialn.png",
-          "https://files.catbox.moe/pznptk.png",
-          "https://files.catbox.moe/5d67je.png",
-          "https://files.catbox.moe/rxx5sj.png",
-          "https://files.catbox.moe/wkr6eh.png"
-        ]
-      }
-    },
-    "31": {
-      "title": "Chương 31",
-      "volume": "3",
-      "last_updated": "1747494986",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/g0ktt4.png",
-          "https://files.catbox.moe/lguaw9.png",
-          "https://files.catbox.moe/4kw43l.png",
-          "https://files.catbox.moe/kx4nf2.png",
-          "https://files.catbox.moe/pagh9p.png",
-          "https://files.catbox.moe/nqxgen.png",
-          "https://files.catbox.moe/ej7rqr.png",
-          "https://files.catbox.moe/tkxx2a.png",
-          "https://files.catbox.moe/09ythq.png",
-          "https://files.catbox.moe/f0d866.png",
-          "https://files.catbox.moe/zxlegv.png",
-          "https://files.catbox.moe/q4xuql.gif"
-        ]
-      }
-    },
-    "32": {
-      "title": "Chương 32",
-      "volume": "3",
-      "last_updated": "1747494882",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/cqjly1.png",
-          "https://files.catbox.moe/6sqd8u.png",
-          "https://files.catbox.moe/fw1zg6.png",
-          "https://files.catbox.moe/fotxb0.png",
-          "https://files.catbox.moe/6e50o4.png"
-        ]
-      }
-    },
-    "33": {
-      "title": "Chương 33",
-      "volume": "4",
-      "last_updated": "1747494709",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/ifp7bh.png",
-          "https://files.catbox.moe/e3ttf3.png",
-          "https://files.catbox.moe/x2q400.png",
-          "https://files.catbox.moe/hb4p9c.png",
-          "https://files.catbox.moe/67bdc4.png",
-          "https://files.catbox.moe/ss4pgt.png",
-          "https://files.catbox.moe/riwbzg.png",
-          "https://files.catbox.moe/s6crtz.png",
-          "https://files.catbox.moe/qpe16a.png",
-          "https://files.catbox.moe/1xk200.png",
-          "https://files.catbox.moe/4oejor.png",
-          "https://files.catbox.moe/tm1hhp.png",
-          "https://files.catbox.moe/dshmag.png"
-        ]
-      }
-    },
-    "34": {
-      "title": "Chương 34",
-      "volume": "4",
-      "last_updated": "1747494676",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/28qhiu.png",
-          "https://files.catbox.moe/m5z0g8.png",
-          "https://files.catbox.moe/guhacp.png",
-          "https://files.catbox.moe/2lugr7.png",
-          "https://files.catbox.moe/bt2wzo.png",
-          "https://files.catbox.moe/lesbz7.png",
-          "https://files.catbox.moe/m04unf.png",
-          "https://files.catbox.moe/u3uieh.png",
-          "https://files.catbox.moe/aze8rp.png",
-          "https://files.catbox.moe/5hkaao.png",
-          "https://files.catbox.moe/dc12iw.png",
-          "https://files.catbox.moe/iw83fe.png",
-          "https://files.catbox.moe/r56qx6.png"
-        ]
-      }
-    },
-    "35": {
-      "title": "Chương 35",
-      "volume": "4",
-      "last_updated": "1747494416",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/xksu6x.png",
-          "https://files.catbox.moe/ndyefd.png",
-          "https://files.catbox.moe/c96ptv.png",
-          "https://files.catbox.moe/hazex9.png",
-          "https://files.catbox.moe/62pa8t.png",
-          "https://files.catbox.moe/rbuaxx.png",
-          "https://files.catbox.moe/lugyu5.png",
-          "https://files.catbox.moe/10ci5c.png",
-          "https://files.catbox.moe/ixpci3.png",
-          "https://files.catbox.moe/khoqsq.png",
-          "https://files.catbox.moe/7aqxvn.png",
-          "https://files.catbox.moe/jyly2c.png",
-          "https://files.catbox.moe/5epqjw.png",
-          "https://files.catbox.moe/8djh5l.png",
-          "https://files.catbox.moe/oqgaaq.png",
-          "https://files.catbox.moe/ddr5hu.png"
-        ]
-      }
-    },
-    "36": {
-      "title": "Chương 36",
-      "volume": "4",
-      "last_updated": "1747493489",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/0zogoc.png",
-          "https://files.catbox.moe/og7otd.png",
-          "https://files.catbox.moe/7tfovc.png",
-          "https://files.catbox.moe/2uor7q.png",
-          "https://files.catbox.moe/nachpn.png",
-          "https://files.catbox.moe/hyn8fx.png",
-          "https://files.catbox.moe/jzvjcw.png",
-          "https://files.catbox.moe/5osh1r.png",
-          "https://files.catbox.moe/ylsrvz.png"
-        ]
-      }
-    },
-    "37": {
-      "title": "Chương 37",
-      "volume": "4",
-      "last_updated": "1747492492",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/1j5h34.png",
-          "https://files.catbox.moe/5fqig0.png",
-          "https://files.catbox.moe/45lvdi.png",
-          "https://files.catbox.moe/zn6mp7.png",
-          "https://files.catbox.moe/xrn8wn.png",
-          "https://files.catbox.moe/zw8ew4.png",
-          "https://files.catbox.moe/ygcfkl.png",
-          "https://files.catbox.moe/7aky6m.png",
-          "https://files.catbox.moe/p69sdi.gif",
-          "https://files.catbox.moe/io3umr.gif",
-          "https://files.catbox.moe/ozas3i.png"
-        ]
-      }
-    },
-    "38": {
-      "title": "Chương 38",
-      "volume": "4",
-      "last_updated": "1747492395",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/wvvryt.png",
-          "https://files.catbox.moe/9rscjn.png",
-          "https://files.catbox.moe/abzomd.png",
-          "https://files.catbox.moe/d0nybc.png",
-          "https://files.catbox.moe/zzo0dg.png",
-          "https://files.catbox.moe/dyztj2.png",
-          "https://files.catbox.moe/ec8382.png",
-          "https://files.catbox.moe/sbgvqq.png",
-          "https://files.catbox.moe/xgo4d2.png"
-        ]
-      }
-    },
-    "39": {
-      "title": "Chương 39",
-      "volume": "4",
-      "last_updated": "1747492247",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/k9ck6w.png",
-          "https://files.catbox.moe/v1hldg.png",
-          "https://files.catbox.moe/lgp08c.png",
-          "https://files.catbox.moe/sfrm1j.png",
-          "https://files.catbox.moe/hpr6uy.png",
-          "https://files.catbox.moe/t6yaog.png",
-          "https://files.catbox.moe/aa9qjp.png",
-          "https://files.catbox.moe/jyfsft.png",
-          "https://files.catbox.moe/tioiel.png",
-          "https://files.catbox.moe/evmysh.png",
-          "https://files.catbox.moe/nihk3h.png",
-          "https://files.catbox.moe/ojj4zs.png",
-          "https://files.catbox.moe/t8dz5l.png"
-        ]
-      }
-    },
-    "40": {
-      "title": "Chương 40",
-      "volume": "4",
-      "last_updated": "1747491678",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/03tkcs.png",
-          "https://files.catbox.moe/2o2jg8.png",
-          "https://files.catbox.moe/1gg2f4.png",
-          "https://files.catbox.moe/2jrw8m.png",
-          "https://files.catbox.moe/pzlsi0.png",
-          "https://files.catbox.moe/kfslnl.png",
-          "https://files.catbox.moe/1ska4r.png",
-          "https://files.catbox.moe/y6qb0d.png",
-          "https://files.catbox.moe/66nv11.png",
-          "https://files.catbox.moe/atef7m.png",
-          "https://files.catbox.moe/b69rl3.png",
-          "https://files.catbox.moe/w0f1q2.png"
-        ]
-      }
-    },
-    "41": {
-      "title": "Chương 41",
-      "volume": "4",
-      "last_updated": "1747498135",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/lbepej.png",
-          "https://files.catbox.moe/bof9rr.png",
-          "https://files.catbox.moe/vm6d7b.png",
-          "https://files.catbox.moe/z1szf2.png",
-          "https://files.catbox.moe/taulq3.png",
-          "https://files.catbox.moe/i38y97.png",
-          "https://files.catbox.moe/a5ag4t.png",
-          "https://files.catbox.moe/b4wo9f.png",
-          "https://files.catbox.moe/ufr9dk.png",
-          "https://files.catbox.moe/exgbxx.png",
-          "https://files.catbox.moe/01r02i.png",
-          "https://files.catbox.moe/b5v4ji.png",
-          "https://files.catbox.moe/bqe72d.png"
-        ]
-      }
-    },
-    "42": {
-      "title": "Chương 42",
-      "volume": "4",
-      "last_updated": "1747498058",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/7fqz3e.png",
-          "https://files.catbox.moe/s88ysa.png",
-          "https://files.catbox.moe/m51r2m.png",
-          "https://files.catbox.moe/kqp1aa.png",
-          "https://files.catbox.moe/m2vnp9.png"
-        ]
-      }
-    },
-    "43": {
-      "title": "Chương 43",
-      "volume": "4",
-      "last_updated": "1747498038",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/cbynyf.png",
-          "https://files.catbox.moe/gjst1e.png",
-          "https://files.catbox.moe/y6gmgy.png",
-          "https://files.catbox.moe/v8y1br.png",
-          "https://files.catbox.moe/wx92bq.png",
-          "https://files.catbox.moe/3finjw.png"
-        ]
-      }
-    },
-    "44": {
-      "title": "Chương 44",
-      "volume": "4",
-      "last_updated": "1747497988",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/i2y8yo.png",
-          "https://files.catbox.moe/tj4gyj.png",
-          "https://files.catbox.moe/72vtf4.png",
-          "https://files.catbox.moe/zoad85.png",
-          "https://files.catbox.moe/ivbm81.png",
-          "https://files.catbox.moe/fr89zd.png",
-          "https://files.catbox.moe/wnmubc.png",
-          "https://files.catbox.moe/eefa64.png",
-          "https://files.catbox.moe/b5ihi2.png",
-          "https://files.catbox.moe/kek5a8.png",
-          "https://files.catbox.moe/ipgmbf.png",
-          "https://files.catbox.moe/3m9jgf.png",
-          "https://files.catbox.moe/wv9rpl.png"
-        ]
-      }
-    },
-    "45": {
-      "title": "Chương 45",
-      "volume": "4",
-      "last_updated": "1747497739",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/eukmlo.png",
-          "https://files.catbox.moe/azx6cl.png",
-          "https://files.catbox.moe/9mlw9c.png",
-          "https://files.catbox.moe/i2pfp6.png",
-          "https://files.catbox.moe/3iv9ah.png",
-          "https://files.catbox.moe/omdpk8.png",
-          "https://files.catbox.moe/iprkso.png",
-          "https://files.catbox.moe/nzaq6d.png",
-          "https://files.catbox.moe/nxbs8o.png",
-          "https://files.catbox.moe/mb6liz.png",
-          "https://files.catbox.moe/bez8ue.png",
-          "https://files.catbox.moe/2lp9zy.png",
-          "https://files.catbox.moe/uhdboq.gif",
-          "https://files.catbox.moe/5oocf4.gif",
-          "https://files.catbox.moe/gxfmpb.png"
-        ]
-      }
-    },
-    "46": {
-      "title": "Chương 46",
-      "volume": "4",
-      "last_updated": "1747497666",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/umerkp.png",
-          "https://files.catbox.moe/8k7y2m.png",
-          "https://files.catbox.moe/3ybl8k.png",
-          "https://files.catbox.moe/febtrt.png",
-          "https://files.catbox.moe/3mpegw.png",
-          "https://files.catbox.moe/y9hary.png",
-          "https://files.catbox.moe/gba5xd.png",
-          "https://files.catbox.moe/l4riu6.png",
-          "https://files.catbox.moe/eqw2mf.png",
-          "https://files.catbox.moe/u6q9gd.png",
-          "https://files.catbox.moe/314rna.png",
-          "https://files.catbox.moe/ajusx9.png"
-        ]
-      }
-    },
-    "47": {
-      "title": "Chương 47",
-      "volume": "4",
-      "last_updated": "1747497650",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/4aa60f.png",
-          "https://files.catbox.moe/k0bhxu.png",
-          "https://files.catbox.moe/xbldek.png",
-          "https://files.catbox.moe/pspl24.png",
-          "https://files.catbox.moe/4tb7vi.png",
-          "https://files.catbox.moe/dbzg91.png",
-          "https://files.catbox.moe/ds0i3c.png",
-          "https://files.catbox.moe/qx8htp.png",
-          "https://files.catbox.moe/s6ghio.png",
-          "https://files.catbox.moe/3zqkef.png",
-          "https://files.catbox.moe/kj2b14.png",
-          "https://files.catbox.moe/s56h6i.png",
-          "https://files.catbox.moe/c4zert.png",
-          "https://files.catbox.moe/nsu1pj.png",
-          "https://files.catbox.moe/3scjuf.png"
-        ]
-      }
-    },
-    "40.5": {
-      "title": "Chương 40.5",
-      "volume": "4",
-      "last_updated": "1747496643",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/q06zv5.png"
-        ]
-      }
-    },
-    "41.5": {
-      "title": "Chương 41.5",
-      "volume": "4",
-      "last_updated": "1747496745",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/djijks.png"
-        ]
-      }
-    },
-    "39.5": {
-      "title": "Chương 39.5",
-      "volume": "4",
-      "last_updated": "1747496799",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/rzjm2r.png"
-        ]
-      }
-    },
-    "42.5": {
-      "title": "Chương 42.5",
-      "volume": "4",
-      "last_updated": "1747496819",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/nisqvx.png"
-        ]
-      }
-    },
-    "43.5": {
-      "title": "Chương 43.5",
-      "volume": "4",
-      "last_updated": "1747496833",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/cg9g6i.png"
-        ]
-      }
-    },
-    "44.5": {
-      "title": "Chương 44.5",
-      "volume": "4",
-      "last_updated": "1747496841",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/x3eipg.png"
-        ]
-      }
-    },
-    "45.5": {
-      "title": "Chương 45.5",
-      "volume": "4",
-      "last_updated": "1747496850",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/lt5ev0.png"
-        ]
-      }
-    },
-    "46.5": {
-      "title": "Chương 46.5",
-      "volume": "4",
-      "last_updated": "1747496866",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/7x52tw.png"
-        ]
-      }
-    },
-    "47.5": {
-      "title": "Chương 47.5",
-      "volume": "4",
-      "last_updated": "1747496882",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/mo0o1c.png"
-        ]
-      }
-    },
-    "38.5": {
-      "title": "Chương 38.5",
-      "volume": "4",
-      "last_updated": "1747498261",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/eyzm3b.png"
-        ]
-      }
-    },
-    "37.5": {
-      "title": "Chương 37.5",
-      "volume": "4",
-      "last_updated": "1747498286",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/behltb.png"
-        ]
-      }
-    },
-    "36.5": {
-      "title": "Chương 36.5",
-      "volume": "4",
-      "last_updated": "1747498299",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/cu24fg.png"
-        ]
-      }
-    },
-    "35.5": {
-      "title": "Chương 35.5",
-      "volume": "4",
-      "last_updated": "1747498309",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/dvfsle.png"
-        ]
-      }
-    },
-    "34.5": {
-      "title": "Chương 34.5",
-      "volume": "4",
-      "last_updated": "1747498319",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/lbhuj5.png"
-        ]
-      }
-    },
-    "33.5": {
-      "title": "Chương 33.5",
-      "volume": "4",
-      "last_updated": "1747498330",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/dy2t9k.png"
-        ]
-      }
-    },
-    "32.5": {
-      "title": "Chương 32.5",
-      "volume": "3",
-      "last_updated": "1747498347",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/h3bei2.png"
-        ]
-      }
-    },
-    "32.6": {
-      "title": "Chương 32.6 - Đuỵt.Mịa.Mài - Omake Vol 3",
-      "volume": "3",
-      "last_updated": "1747498365",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/saorcs.png",
-          "https://files.catbox.moe/e6ibnv.png",
-          "https://files.catbox.moe/a56177.png",
-          "https://files.catbox.moe/8ex2ot.png",
-          "https://files.catbox.moe/teffa7.png",
-          "https://files.catbox.moe/9nctpm.png",
-          "https://files.catbox.moe/iosp9z.png",
-          "https://files.catbox.moe/effksm.png",
-          "https://files.catbox.moe/zaa24d.png",
-          "https://files.catbox.moe/ii99xy.png",
-          "https://files.catbox.moe/04jmef.jpg"
-        ]
-      }
-    },
-    "31.5": {
-      "title": "Chương 31.5",
-      "volume": "3",
-      "last_updated": "1747498401",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/8zrrys.png"
-        ]
-      }
-    },
-    "30.5": {
-      "title": "Chương 30.5",
-      "volume": "3",
-      "last_updated": "1747498413",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/ek5fwf.png"
-        ]
-      }
-    },
-    "29.5": {
-      "title": "Chương 29.5",
-      "volume": "3",
-      "last_updated": "1747498423",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/7m3rz2.png"
-        ]
-      }
-    },
-    "28.5": {
-      "title": "Chương 28.5",
-      "volume": "3",
-      "last_updated": "1747498434",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/4kp74h.png"
-        ]
-      }
-    },
-    "27.5": {
-      "title": "Chương 27.5",
-      "volume": "3",
-      "last_updated": "1747498444",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/ck1mff.png"
-        ]
-      }
-    },
-    "26.5": {
-      "title": "Chương 26.5",
-      "volume": "3",
-      "last_updated": "1747498457",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/uf8899.png"
-        ]
-      }
-    },
-    "25.5": {
-      "title": "Chương 25.5",
-      "volume": "3",
-      "last_updated": "1747498473",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/mgj3ka.png"
-        ]
-      }
-    },
-    "24.5": {
-      "title": "Chương 24.5",
-      "volume": "3",
-      "last_updated": "1747498625",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/2kt6y4.png"
-        ]
-      }
-    },
-    "23.5": {
-      "title": "Chương 23.5",
-      "volume": "3",
-      "last_updated": "1747498640",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/s9ydc5.png"
-        ]
-      }
-    },
-    "22.5": {
-      "title": "Chương 22.5",
-      "volume": "3",
-      "last_updated": "1747498656",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/por7m9.png",
-          "https://files.catbox.moe/fuce59.gif",
-          "https://files.catbox.moe/tg86dm.gif"
-        ]
-      }
-    },
-    "19.5": {
-      "title": "Chương 19.5",
-      "volume": "2",
-      "last_updated": "1747499443",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/p705uw.png"
-        ]
-      }
-    },
-    "20.5": {
-      "title": "Chương 20.5",
-      "volume": "2",
-      "last_updated": "1747499462",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/95h5qp.png"
-        ]
-      }
-    },
-    "21.5": {
-      "title": "Chương 21.5",
-      "volume": "2",
-      "last_updated": "1747499485",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/lslw10.png"
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/msx0n3.avif",
+          "https://files.catbox.moe/mwsbzy.avif",
+          "https://files.catbox.moe/5hfmrr.avif",
+          "https://files.catbox.moe/wbs414.avif",
+          "https://files.catbox.moe/1y067l.avif",
+          "https://files.catbox.moe/auc72h.avif",
+          "https://files.catbox.moe/4liajr.avif",
+          "https://files.catbox.moe/12otj1.avif",
+          "https://files.catbox.moe/hwrbra.avif",
+          "https://files.catbox.moe/vq3zfn.avif",
+          "https://files.catbox.moe/86vdro.avif",
+          "https://files.catbox.moe/imsdaz.avif",
+          "https://files.catbox.moe/hn1ks3.avif",
+          "https://files.catbox.moe/65b6qu.avif",
+          "https://files.catbox.moe/ua3sxq.avif",
+          "https://files.catbox.moe/bm2yb1.avif",
+          "https://files.catbox.moe/w0nsv9.avif",
+          "https://files.catbox.moe/mufh1p.avif",
+          "https://files.catbox.moe/useoj5.avif",
+          "https://files.catbox.moe/npakm9.avif",
+          "https://files.catbox.moe/ge6x5v.avif",
+          "https://files.catbox.moe/nfqlfc.avif",
+          "https://files.catbox.moe/zkfyoa.avif"
         ]
       }
     },
     "1.5": {
-      "title": "Chương 1.5",
+      "title": "Vol 1 Chap 1.5",
       "volume": "1",
-      "last_updated": "1747499502",
+      "last_updated": 1751446374,
       "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/86qr68.png"
+        "SAM Shelter": [
+          "https://files.catbox.moe/9hwyan.avif"
         ]
       }
     },
-    "18.5": {
-      "title": "Chương 18.5",
-      "volume": "2",
-      "last_updated": "1747499519",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/3mb5q5.png"
-        ]
-      }
-    },
-    "17.5": {
-      "title": "Chương 17.5",
-      "volume": "2",
-      "last_updated": "1747499540",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/xgorta.png"
-        ]
-      }
-    },
-    "16.5": {
-      "title": "Chương 16.5",
-      "volume": "2",
-      "last_updated": "1747499556",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/tnrud2.png"
-        ]
-      }
-    },
-    "15.5": {
-      "title": "Chương 15.5",
-      "volume": "2",
-      "last_updated": "1747499566",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/q00y89.png"
-        ]
-      }
-    },
-    "14.5": {
-      "title": "Chương 14.5",
-      "volume": "2",
-      "last_updated": "1747499579",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/1p6pws.png"
-        ]
-      }
-    },
-    "13.5": {
-      "title": "Chương 13.5",
-      "volume": "2",
-      "last_updated": "1747499592",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/z6kf02.png"
-        ]
-      }
-    },
-    "12.5": {
-      "title": "Chương 12.5",
-      "volume": "2",
-      "last_updated": "1747499604",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/0l18fs.png"
-        ]
-      }
-    },
-    "11.5": {
-      "title": "Chương 11.5",
-      "volume": "2",
-      "last_updated": "1747499621",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/lluics.png"
-        ]
-      }
-    },
-    "10.5": {
-      "title": "Chương 10.5",
+    "2": {
+      "title": "Vol 1 Chap 2",
       "volume": "1",
-      "last_updated": "1747526203",
+      "last_updated": 1751446374,
       "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/vg1n4v.png"
+        "SAM Shelter": [
+          "https://files.catbox.moe/qozxau.avif",
+          "https://files.catbox.moe/7vxbkx.avif",
+          "https://files.catbox.moe/cwe2a6.avif",
+          "https://files.catbox.moe/wm8zmo.avif",
+          "https://files.catbox.moe/crvumc.avif",
+          "https://files.catbox.moe/vr1jiy.avif",
+          "https://files.catbox.moe/y9urn6.avif",
+          "https://files.catbox.moe/qnetwr.avif",
+          "https://files.catbox.moe/rk7ief.avif",
+          "https://files.catbox.moe/yb93cp.avif",
+          "https://files.catbox.moe/pmleax.avif",
+          "https://files.catbox.moe/xu0z6l.avif",
+          "https://files.catbox.moe/47cpw2.avif",
+          "https://files.catbox.moe/o35skc.avif"
         ]
       }
     },
-    "9.5": {
-      "title": "Chương 9.5",
+    "3": {
+      "title": "Vol 1 Chap 3",
       "volume": "1",
-      "last_updated": "1747526394",
+      "last_updated": 1751446374,
       "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/unxfxc.png"
-        ]
-      }
-    },
-    "8.5": {
-      "title": "Chương 8.5",
-      "volume": "1",
-      "last_updated": "1747526416",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/i63uml.png"
-        ]
-      }
-    },
-    "7.5": {
-      "title": "Chương 7.5",
-      "volume": "1",
-      "last_updated": "1747526528",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/ge97ee.png"
-        ]
-      }
-    },
-    "6.5": {
-      "title": "Chương 6.5",
-      "volume": "1",
-      "last_updated": "1747526572",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/r3dnws.png"
-        ]
-      }
-    },
-    "5.5": {
-      "title": "Chương 5.5",
-      "volume": "1",
-      "last_updated": "1747526621",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/2wvq60.png"
-        ]
-      }
-    },
-    "4.5": {
-      "title": "Chương 4.5",
-      "volume": "1",
-      "last_updated": "1747526645",
-      "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/xnvzyu.png"
+        "SAM Shelter": [
+          "https://files.catbox.moe/7tutxa.avif",
+          "https://files.catbox.moe/gv9j9b.avif",
+          "https://files.catbox.moe/mu5omb.avif",
+          "https://files.catbox.moe/k4fq2j.avif",
+          "https://files.catbox.moe/3q6asp.avif",
+          "https://files.catbox.moe/bo5i29.avif",
+          "https://files.catbox.moe/a8dm5n.avif",
+          "https://files.catbox.moe/i7qmfa.avif",
+          "https://files.catbox.moe/t5lsv3.avif",
+          "https://files.catbox.moe/s0xwjb.avif",
+          "https://files.catbox.moe/0547ma.avif",
+          "https://files.catbox.moe/qh3umi.avif",
+          "https://files.catbox.moe/534mxk.avif"
         ]
       }
     },
     "3.5": {
-      "title": "Chương 3.5",
+      "title": "Vol 1 Chap 3.5",
       "volume": "1",
-      "last_updated": "1747526667",
+      "last_updated": 1751446374,
       "groups": {
-        "SAM Shelter ": [
-          "https://files.catbox.moe/1ivvhb.png"
+        "SAM Shelter": [
+          "https://files.catbox.moe/myskt6.avif"
+        ]
+      }
+    },
+    "4": {
+      "title": "Vol 1 Chap 4",
+      "volume": "1",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/uxq6en.avif",
+          "https://files.catbox.moe/7x6a15.avif",
+          "https://files.catbox.moe/xpn1dq.avif",
+          "https://files.catbox.moe/d33196.avif",
+          "https://files.catbox.moe/jfpvyq.avif",
+          "https://files.catbox.moe/xulwzm.avif",
+          "https://files.catbox.moe/rdmv38.avif",
+          "https://files.catbox.moe/1wqolm.avif",
+          "https://files.catbox.moe/axfocx.avif",
+          "https://files.catbox.moe/4qtm0l.avif",
+          "https://files.catbox.moe/ppq7s9.avif",
+          "https://files.catbox.moe/87h1z5.avif",
+          "https://files.catbox.moe/nl8bhi.avif"
+        ]
+      }
+    },
+    "4.5": {
+      "title": "Vol 1 Chap 4.5",
+      "volume": "1",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/5h0bt1.avif"
+        ]
+      }
+    },
+    "5": {
+      "title": "Vol 1 Chap 5",
+      "volume": "1",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/2r7sf4.avif",
+          "https://files.catbox.moe/1vnz1b.avif",
+          "https://files.catbox.moe/j59a4n.avif",
+          "https://files.catbox.moe/13t8az.avif",
+          "https://files.catbox.moe/dhfgmw.avif",
+          "https://files.catbox.moe/fnj4ol.avif",
+          "https://files.catbox.moe/7a76yf.avif",
+          "https://files.catbox.moe/0hzjfs.avif",
+          "https://files.catbox.moe/0x264g.avif",
+          "https://files.catbox.moe/eaat79.avif",
+          "https://files.catbox.moe/4n2bpc.avif",
+          "https://files.catbox.moe/hbvz9i.avif",
+          "https://files.catbox.moe/pipxwa.avif"
+        ]
+      }
+    },
+    "5.5": {
+      "title": "Vol 1 Chap 5.5",
+      "volume": "1",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/xsq073.avif"
+        ]
+      }
+    },
+    "6": {
+      "title": "Vol 1 Chap 6",
+      "volume": "1",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/wcx9ba.avif",
+          "https://files.catbox.moe/5bs5x9.avif",
+          "https://files.catbox.moe/omcdk8.avif",
+          "https://files.catbox.moe/ug6buo.avif",
+          "https://files.catbox.moe/gjepw2.avif",
+          "https://files.catbox.moe/hvi9e4.avif",
+          "https://files.catbox.moe/pj8k8b.avif",
+          "https://files.catbox.moe/ymuidw.avif",
+          "https://files.catbox.moe/2ote74.avif",
+          "https://files.catbox.moe/u3w8wq.avif",
+          "https://files.catbox.moe/k2gwk9.avif",
+          "https://files.catbox.moe/3cs6fi.avif",
+          "https://files.catbox.moe/45fvg5.avif",
+          "https://files.catbox.moe/nx1q8v.avif"
+        ]
+      }
+    },
+    "6.5": {
+      "title": "Vol 1 Chap 6.5",
+      "volume": "1",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/is2zyn.avif"
+        ]
+      }
+    },
+    "7": {
+      "title": "Vol 1 Chap 7",
+      "volume": "1",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/jy0kvn.avif",
+          "https://files.catbox.moe/iplcvx.avif",
+          "https://files.catbox.moe/leveoq.avif",
+          "https://files.catbox.moe/7pi6vh.avif",
+          "https://files.catbox.moe/blmkdf.avif",
+          "https://files.catbox.moe/m2bbsz.avif",
+          "https://files.catbox.moe/3z6349.avif",
+          "https://files.catbox.moe/zmt9fk.avif",
+          "https://files.catbox.moe/6b7x7z.avif",
+          "https://files.catbox.moe/ngtyif.avif",
+          "https://files.catbox.moe/miuv9m.avif",
+          "https://files.catbox.moe/3z9zvt.avif",
+          "https://files.catbox.moe/ks488e.avif",
+          "https://files.catbox.moe/xc1mx8.avif"
+        ]
+      }
+    },
+    "7.5": {
+      "title": "Vol 1 Chap 7.5",
+      "volume": "1",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/fugfms.avif"
+        ]
+      }
+    },
+    "8": {
+      "title": "Vol 1 Chap 8",
+      "volume": "1",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/g048ns.avif",
+          "https://files.catbox.moe/twiejp.avif",
+          "https://files.catbox.moe/zhgxnu.avif",
+          "https://files.catbox.moe/c6e78c.avif",
+          "https://files.catbox.moe/fpyvib.avif",
+          "https://files.catbox.moe/guz5em.avif",
+          "https://files.catbox.moe/mtc49j.avif",
+          "https://files.catbox.moe/xe8hgp.avif",
+          "https://files.catbox.moe/sdzyvo.avif",
+          "https://files.catbox.moe/0xcf42.avif",
+          "https://files.catbox.moe/m0bbrj.avif",
+          "https://files.catbox.moe/y7bh79.avif",
+          "https://files.catbox.moe/8l3gjg.avif",
+          "https://files.catbox.moe/ju598h.avif",
+          "https://files.catbox.moe/7nl1lz.avif"
+        ]
+      }
+    },
+    "8.5": {
+      "title": "Vol 1 Chap 8.5",
+      "volume": "1",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/pdksio.avif"
+        ]
+      }
+    },
+    "9": {
+      "title": "Vol 1 Chap 9",
+      "volume": "1",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/fmgmkc.avif",
+          "https://files.catbox.moe/hd05m9.avif",
+          "https://files.catbox.moe/3zozan.avif",
+          "https://files.catbox.moe/59juxx.avif",
+          "https://files.catbox.moe/z7a51t.avif",
+          "https://files.catbox.moe/x5oroi.avif",
+          "https://files.catbox.moe/gzdej9.avif",
+          "https://files.catbox.moe/iuzc16.avif",
+          "https://files.catbox.moe/e16zhd.avif",
+          "https://files.catbox.moe/bq36ml.avif",
+          "https://files.catbox.moe/qxua76.avif",
+          "https://files.catbox.moe/czj20o.avif",
+          "https://files.catbox.moe/t3jsje.avif"
+        ]
+      }
+    },
+    "9.5": {
+      "title": "Vol 1 Chap 9.5",
+      "volume": "1",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/6usb50.avif"
+        ]
+      }
+    },
+    "10": {
+      "title": "Vol 1 Chap 10",
+      "volume": "1",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/kairxj.avif",
+          "https://files.catbox.moe/quo1ml.avif",
+          "https://files.catbox.moe/bdu7p4.avif",
+          "https://files.catbox.moe/72zp0e.avif",
+          "https://files.catbox.moe/n4660e.avif",
+          "https://files.catbox.moe/quazon.avif",
+          "https://files.catbox.moe/f8sfev.avif",
+          "https://files.catbox.moe/7q3llk.avif",
+          "https://files.catbox.moe/weng7e.avif",
+          "https://files.catbox.moe/25uvei.avif",
+          "https://files.catbox.moe/n0fwu1.avif",
+          "https://files.catbox.moe/0xuwn5.avif",
+          "https://files.catbox.moe/tk9f7c.avif"
+        ]
+      }
+    },
+    "10.5": {
+      "title": "Vol 1 Chap 10.5",
+      "volume": "1",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/zoel0i.avif"
+        ]
+      }
+    },
+    "10.6": {
+      "title": "Vol 1 Chap 10.6",
+      "volume": "1",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/am6hqq.avif",
+          "https://files.catbox.moe/qq2qce.avif",
+          "https://files.catbox.moe/fwyjso.avif",
+          "https://files.catbox.moe/r2i29d.avif",
+          "https://files.catbox.moe/qlp5kp.avif",
+          "https://files.catbox.moe/ytjvsz.avif",
+          "https://files.catbox.moe/ju5y5j.avif",
+          "https://files.catbox.moe/gt4ewp.avif",
+          "https://files.catbox.moe/zdzbl2.avif",
+          "https://files.catbox.moe/vzu47y.avif",
+          "https://files.catbox.moe/5p8wsn.avif",
+          "https://files.catbox.moe/q4p864.avif",
+          "https://files.catbox.moe/ipycqu.avif"
+        ]
+      }
+    },
+    "11": {
+      "title": "Vol 2 Chap 11",
+      "volume": "2",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/ak5fq2.avif",
+          "https://files.catbox.moe/a3oynr.avif",
+          "https://files.catbox.moe/c3jv54.avif",
+          "https://files.catbox.moe/nam4ru.avif",
+          "https://files.catbox.moe/eh3vty.avif",
+          "https://files.catbox.moe/5uncp9.avif",
+          "https://files.catbox.moe/sa002l.avif",
+          "https://files.catbox.moe/llavbg.avif",
+          "https://files.catbox.moe/uh6pxw.avif",
+          "https://files.catbox.moe/fa2x31.avif",
+          "https://files.catbox.moe/orz4es.avif",
+          "https://files.catbox.moe/0oimce.avif",
+          "https://files.catbox.moe/5e9zzn.avif"
+        ]
+      }
+    },
+    "11.5": {
+      "title": "Vol 2 Chap 11.5",
+      "volume": "2",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/7m0shr.avif"
+        ]
+      }
+    },
+    "12": {
+      "title": "Vol 2 Chap 12",
+      "volume": "2",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/j3gpip.avif",
+          "https://files.catbox.moe/zaa1zw.avif",
+          "https://files.catbox.moe/i6bf9f.avif",
+          "https://files.catbox.moe/enho4i.avif",
+          "https://files.catbox.moe/82qy3p.avif",
+          "https://files.catbox.moe/fnmi6c.avif",
+          "https://files.catbox.moe/lugaov.avif",
+          "https://files.catbox.moe/slmp3c.avif",
+          "https://files.catbox.moe/acds41.avif",
+          "https://files.catbox.moe/jr3d1s.avif",
+          "https://files.catbox.moe/ypcteg.avif",
+          "https://files.catbox.moe/ytt632.avif",
+          "https://files.catbox.moe/r8nh22.avif"
+        ]
+      }
+    },
+    "12.5": {
+      "title": "Vol 2 Chap 12.5",
+      "volume": "2",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/xb5cdw.avif"
+        ]
+      }
+    },
+    "13": {
+      "title": "Vol 2 Chap 13",
+      "volume": "2",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/xzwqep.avif",
+          "https://files.catbox.moe/5jdowb.avif",
+          "https://files.catbox.moe/g7hhs9.avif",
+          "https://files.catbox.moe/ioz0g7.avif",
+          "https://files.catbox.moe/rzsgkm.avif",
+          "https://files.catbox.moe/x6wt43.avif",
+          "https://files.catbox.moe/1p7rvj.avif",
+          "https://files.catbox.moe/5beny6.avif",
+          "https://files.catbox.moe/x62zbr.avif",
+          "https://files.catbox.moe/ozkvwn.avif",
+          "https://files.catbox.moe/88enc8.avif"
+        ]
+      }
+    },
+    "13.5": {
+      "title": "Vol 2 Chap 13.5",
+      "volume": "2",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/cmvwf7.avif"
+        ]
+      }
+    },
+    "14": {
+      "title": "Vol 2 Chap 14",
+      "volume": "2",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/euuvfs.avif",
+          "https://files.catbox.moe/m7teo0.avif",
+          "https://files.catbox.moe/428fgd.avif",
+          "https://files.catbox.moe/ix779o.avif",
+          "https://files.catbox.moe/zpnk1m.avif",
+          "https://files.catbox.moe/87tn0c.avif",
+          "https://files.catbox.moe/e5gnnl.avif",
+          "https://files.catbox.moe/b6s4af.avif",
+          "https://files.catbox.moe/jyhk6s.avif",
+          "https://files.catbox.moe/bs1gbb.avif",
+          "https://files.catbox.moe/g2abww.avif",
+          "https://files.catbox.moe/mjid8j.avif"
+        ]
+      }
+    },
+    "14.5": {
+      "title": "Vol 2 Chap 14.5",
+      "volume": "2",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/zw5bvv.avif"
+        ]
+      }
+    },
+    "15": {
+      "title": "Vol 2 Chap 15",
+      "volume": "2",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/uoi52h.avif",
+          "https://files.catbox.moe/08vine.avif",
+          "https://files.catbox.moe/9l7ssm.avif",
+          "https://files.catbox.moe/n43op9.avif",
+          "https://files.catbox.moe/xibtdf.avif",
+          "https://files.catbox.moe/z23ufn.avif",
+          "https://files.catbox.moe/nydcbz.avif",
+          "https://files.catbox.moe/aqe6py.avif",
+          "https://files.catbox.moe/67k4p9.avif",
+          "https://files.catbox.moe/dsjmdi.avif",
+          "https://files.catbox.moe/jj2byl.avif",
+          "https://files.catbox.moe/9oc8r4.avif",
+          "https://files.catbox.moe/vwrgrs.avif",
+          "https://files.catbox.moe/7sb3qr.avif",
+          "https://files.catbox.moe/ascp8h.avif",
+          "https://files.catbox.moe/090ixb.avif"
+        ]
+      }
+    },
+    "15.5": {
+      "title": "Vol 2 Chap 15.5",
+      "volume": "2",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/ekc3dd.avif"
+        ]
+      }
+    },
+    "16": {
+      "title": "Vol 2 Chap 16",
+      "volume": "2",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/m2g0kg.avif",
+          "https://files.catbox.moe/1z82jj.avif",
+          "https://files.catbox.moe/eefo2a.avif",
+          "https://files.catbox.moe/1qi9hu.avif",
+          "https://files.catbox.moe/8kbt6g.avif",
+          "https://files.catbox.moe/9ptn29.avif",
+          "https://files.catbox.moe/umc48j.avif",
+          "https://files.catbox.moe/1jyb5z.avif",
+          "https://files.catbox.moe/82cv1m.avif",
+          "https://files.catbox.moe/e0zdz1.avif",
+          "https://files.catbox.moe/frdixb.avif",
+          "https://files.catbox.moe/ou553i.avif",
+          "https://files.catbox.moe/kp9voz.avif"
+        ]
+      }
+    },
+    "16.5": {
+      "title": "Vol 2 Chap 16.5",
+      "volume": "2",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/5vuyiu.avif"
+        ]
+      }
+    },
+    "17": {
+      "title": "Vol 2 Chap 17",
+      "volume": "2",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/9cal8f.avif",
+          "https://files.catbox.moe/qb99k2.avif",
+          "https://files.catbox.moe/291p5r.avif",
+          "https://files.catbox.moe/0a3typ.avif",
+          "https://files.catbox.moe/m51q4f.avif",
+          "https://files.catbox.moe/17addt.avif",
+          "https://files.catbox.moe/5rhm8i.avif",
+          "https://files.catbox.moe/apm5c9.avif",
+          "https://files.catbox.moe/55tj8p.avif",
+          "https://files.catbox.moe/h8ct4p.avif",
+          "https://files.catbox.moe/f8ybwn.avif",
+          "https://files.catbox.moe/c8lk2r.avif",
+          "https://files.catbox.moe/kl391v.avif",
+          "https://files.catbox.moe/pbs2lj.avif"
+        ]
+      }
+    },
+    "17.5": {
+      "title": "Vol 2 Chap 17.5",
+      "volume": "2",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/4fzr7k.avif"
+        ]
+      }
+    },
+    "18": {
+      "title": "Vol 2 Chap 18",
+      "volume": "2",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/myyyq2.avif",
+          "https://files.catbox.moe/i1y3td.avif",
+          "https://files.catbox.moe/tfcu8r.avif",
+          "https://files.catbox.moe/p89ym1.avif",
+          "https://files.catbox.moe/m6gu8b.avif",
+          "https://files.catbox.moe/57w0i9.avif",
+          "https://files.catbox.moe/ak4emm.avif",
+          "https://files.catbox.moe/gl8p0h.avif",
+          "https://files.catbox.moe/ss8bq2.avif",
+          "https://files.catbox.moe/fbruv6.avif",
+          "https://files.catbox.moe/mpmg2p.avif",
+          "https://files.catbox.moe/mngvtu.avif",
+          "https://files.catbox.moe/my3u43.avif",
+          "https://files.catbox.moe/fkqi47.avif",
+          "https://files.catbox.moe/lro1mt.avif"
+        ]
+      }
+    },
+    "18.5": {
+      "title": "Vol 2 Chap 18.5",
+      "volume": "2",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/ff9ebq.avif"
+        ]
+      }
+    },
+    "19": {
+      "title": "Vol 2 Chap 19",
+      "volume": "2",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/j42gf0.avif",
+          "https://files.catbox.moe/27f8hs.avif",
+          "https://files.catbox.moe/kix5am.avif",
+          "https://files.catbox.moe/7rmc86.avif",
+          "https://files.catbox.moe/69uah2.avif",
+          "https://files.catbox.moe/5diec1.avif",
+          "https://files.catbox.moe/htxu3a.avif",
+          "https://files.catbox.moe/hiaxu8.avif",
+          "https://files.catbox.moe/zbmhk3.avif",
+          "https://files.catbox.moe/c8qcph.avif",
+          "https://files.catbox.moe/c5vave.avif",
+          "https://files.catbox.moe/s5dyle.avif",
+          "https://files.catbox.moe/vlat5w.avif",
+          "https://files.catbox.moe/w5pkm2.avif"
+        ]
+      }
+    },
+    "19.5": {
+      "title": "Vol 2 Chap 19.5",
+      "volume": "2",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/xm23z0.avif"
+        ]
+      }
+    },
+    "20": {
+      "title": "Vol 2 Chap 20",
+      "volume": "2",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/wlvu0n.avif",
+          "https://files.catbox.moe/g0rdb1.avif",
+          "https://files.catbox.moe/v0ro8k.avif",
+          "https://files.catbox.moe/pl763e.avif",
+          "https://files.catbox.moe/3y0bdf.avif",
+          "https://files.catbox.moe/9ookfc.avif",
+          "https://files.catbox.moe/q18jw8.avif",
+          "https://files.catbox.moe/zum8k0.avif",
+          "https://files.catbox.moe/h4udme.avif",
+          "https://files.catbox.moe/49pnxz.avif",
+          "https://files.catbox.moe/zxaqe3.avif",
+          "https://files.catbox.moe/k339wz.avif",
+          "https://files.catbox.moe/z75o19.avif",
+          "https://files.catbox.moe/bpdy34.avif"
+        ]
+      }
+    },
+    "20.5": {
+      "title": "Vol 2 Chap 20.5",
+      "volume": "2",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/g9kv0r.avif"
+        ]
+      }
+    },
+    "21": {
+      "title": "Vol 2 Chap 21",
+      "volume": "2",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/q2gnf1.avif",
+          "https://files.catbox.moe/lsuyo7.avif",
+          "https://files.catbox.moe/0a8vsl.avif",
+          "https://files.catbox.moe/ryyiev.avif",
+          "https://files.catbox.moe/bnc53c.avif",
+          "https://files.catbox.moe/wm9s4m.avif",
+          "https://files.catbox.moe/a66ay6.avif",
+          "https://files.catbox.moe/vbwavy.avif",
+          "https://files.catbox.moe/iuffgu.avif",
+          "https://files.catbox.moe/3vnmx6.avif",
+          "https://files.catbox.moe/za95bj.avif",
+          "https://files.catbox.moe/vzb0bn.avif",
+          "https://files.catbox.moe/sk7yi7.avif"
+        ]
+      }
+    },
+    "21.5": {
+      "title": "Vol 2 Chap 21.5",
+      "volume": "2",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/t38vz7.avif"
+        ]
+      }
+    },
+    "22": {
+      "title": "Vol 3 Chap 22",
+      "volume": "3",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/37gzq6.avif",
+          "https://files.catbox.moe/0ptnba.avif",
+          "https://files.catbox.moe/rhy9y8.avif",
+          "https://files.catbox.moe/dex62r.avif",
+          "https://files.catbox.moe/gmtv2n.avif",
+          "https://files.catbox.moe/b3hgtk.avif",
+          "https://files.catbox.moe/qoqe94.avif",
+          "https://files.catbox.moe/o6zeds.avif",
+          "https://files.catbox.moe/4ztq06.avif",
+          "https://files.catbox.moe/d57va7.avif",
+          "https://files.catbox.moe/ckqw5h.avif"
+        ]
+      }
+    },
+    "22.5": {
+      "title": "Vol 3 Chap 22.5",
+      "volume": "3",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/ick6j3.avif",
+          "https://files.catbox.moe/gorxli.avif",
+          "https://files.catbox.moe/cvpg00.avif"
+        ]
+      }
+    },
+    "23": {
+      "title": "Vol 3 Chap 23",
+      "volume": "3",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/6vpznq.avif",
+          "https://files.catbox.moe/xlnba2.avif",
+          "https://files.catbox.moe/ow2dp4.avif",
+          "https://files.catbox.moe/hg3fqy.avif",
+          "https://files.catbox.moe/uf1e9t.avif",
+          "https://files.catbox.moe/gs8h0g.avif",
+          "https://files.catbox.moe/pfoyxa.avif",
+          "https://files.catbox.moe/7cle9s.avif",
+          "https://files.catbox.moe/i3395q.avif",
+          "https://files.catbox.moe/xb4ppy.avif"
+        ]
+      }
+    },
+    "23.5": {
+      "title": "Vol 3 Chap 23.5",
+      "volume": "3",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/gkjaz7.avif"
+        ]
+      }
+    },
+    "24": {
+      "title": "Vol 3 Chap 24",
+      "volume": "3",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/mjsspl.avif",
+          "https://files.catbox.moe/jj2wkv.avif",
+          "https://files.catbox.moe/crb5od.avif",
+          "https://files.catbox.moe/sajye2.avif",
+          "https://files.catbox.moe/8ncfz3.avif",
+          "https://files.catbox.moe/ms6yl8.avif",
+          "https://files.catbox.moe/abrh03.avif",
+          "https://files.catbox.moe/d30s66.avif",
+          "https://files.catbox.moe/2ivh4h.avif",
+          "https://files.catbox.moe/hqqoi3.avif",
+          "https://files.catbox.moe/e07oe5.avif",
+          "https://files.catbox.moe/f773sw.avif",
+          "https://files.catbox.moe/oov6aw.avif",
+          "https://files.catbox.moe/z7x9jt.avif",
+          "https://files.catbox.moe/8fjh9t.avif",
+          "https://files.catbox.moe/y4dhsv.avif",
+          "https://files.catbox.moe/gca1m1.avif"
+        ]
+      }
+    },
+    "24.5": {
+      "title": "Vol 3 Chap 24.5",
+      "volume": "3",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/ny9llh.avif"
+        ]
+      }
+    },
+    "25": {
+      "title": "Vol 3 Chap 25",
+      "volume": "3",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/4ajw55.avif",
+          "https://files.catbox.moe/avmlzy.avif",
+          "https://files.catbox.moe/3jasyl.avif",
+          "https://files.catbox.moe/jip3r4.avif",
+          "https://files.catbox.moe/qs7yha.avif",
+          "https://files.catbox.moe/3268b8.avif",
+          "https://files.catbox.moe/gpdias.avif",
+          "https://files.catbox.moe/z26xml.avif",
+          "https://files.catbox.moe/uvutha.avif",
+          "https://files.catbox.moe/ea8lq1.avif",
+          "https://files.catbox.moe/qxd6tw.avif",
+          "https://files.catbox.moe/ei80c9.avif",
+          "https://files.catbox.moe/yqrzd4.avif"
+        ]
+      }
+    },
+    "25.5": {
+      "title": "Vol 3 Chap 25.5",
+      "volume": "3",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/bzzmxg.avif"
+        ]
+      }
+    },
+    "26": {
+      "title": "Vol 3 Chap 26",
+      "volume": "3",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/8d7rv2.avif",
+          "https://files.catbox.moe/g8g5rj.avif",
+          "https://files.catbox.moe/wxv61x.avif",
+          "https://files.catbox.moe/xonxu5.avif",
+          "https://files.catbox.moe/q86wnv.avif",
+          "https://files.catbox.moe/wzxfkw.avif",
+          "https://files.catbox.moe/4am05b.avif",
+          "https://files.catbox.moe/xzpxjh.avif",
+          "https://files.catbox.moe/rj0r1f.avif",
+          "https://files.catbox.moe/hcg88x.avif",
+          "https://files.catbox.moe/fhrfa8.avif",
+          "https://files.catbox.moe/vjmar5.avif",
+          "https://files.catbox.moe/i2qa2b.avif",
+          "https://files.catbox.moe/wgmlf7.avif",
+          "https://files.catbox.moe/673j2v.avif"
+        ]
+      }
+    },
+    "26.5": {
+      "title": "Vol 3 Chap 26.5",
+      "volume": "3",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/0ax804.avif"
+        ]
+      }
+    },
+    "27": {
+      "title": "Vol 3 Chap 27",
+      "volume": "3",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/39bjim.avif",
+          "https://files.catbox.moe/cldrpj.avif",
+          "https://files.catbox.moe/21ft03.avif",
+          "https://files.catbox.moe/tj6bcr.avif",
+          "https://files.catbox.moe/fhrugd.avif",
+          "https://files.catbox.moe/7o59kc.avif",
+          "https://files.catbox.moe/p6yqov.avif",
+          "https://files.catbox.moe/ue70hs.avif",
+          "https://files.catbox.moe/plh2xk.avif",
+          "https://files.catbox.moe/rhnapj.avif",
+          "https://files.catbox.moe/g9p8cr.avif",
+          "https://files.catbox.moe/67dilu.avif",
+          "https://files.catbox.moe/qr2tmp.avif"
+        ]
+      }
+    },
+    "27.5": {
+      "title": "Vol 3 Chap 27.5",
+      "volume": "3",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/bynpnv.avif"
+        ]
+      }
+    },
+    "28": {
+      "title": "Vol 3 Chap 28",
+      "volume": "3",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/k35iwq.avif",
+          "https://files.catbox.moe/jwkadx.avif",
+          "https://files.catbox.moe/4cqoqm.avif",
+          "https://files.catbox.moe/sfs87p.avif",
+          "https://files.catbox.moe/mwyahl.avif",
+          "https://files.catbox.moe/8srpns.avif",
+          "https://files.catbox.moe/98g1ls.avif",
+          "https://files.catbox.moe/xk9eq9.avif",
+          "https://files.catbox.moe/ois2xe.avif",
+          "https://files.catbox.moe/tyeyes.avif"
+        ]
+      }
+    },
+    "28.5": {
+      "title": "Vol 3 Chap 28.5",
+      "volume": "3",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/c85hm1.avif"
+        ]
+      }
+    },
+    "29": {
+      "title": "Vol 3 Chap 29",
+      "volume": "3",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/oy5pau.avif",
+          "https://files.catbox.moe/8l9joz.avif",
+          "https://files.catbox.moe/5w34hf.avif",
+          "https://files.catbox.moe/fqpgem.avif",
+          "https://files.catbox.moe/nizfg9.avif",
+          "https://files.catbox.moe/drquv0.avif",
+          "https://files.catbox.moe/0lyui2.avif",
+          "https://files.catbox.moe/wwtzdv.avif",
+          "https://files.catbox.moe/gkly2h.avif",
+          "https://files.catbox.moe/t7q0y0.avif",
+          "https://files.catbox.moe/b1sgl5.avif",
+          "https://files.catbox.moe/nxdrt9.avif",
+          "https://files.catbox.moe/7i8x2w.avif",
+          "https://files.catbox.moe/jhly6c.avif",
+          "https://files.catbox.moe/5a5nb2.avif",
+          "https://files.catbox.moe/twprgp.avif",
+          "https://files.catbox.moe/zspyam.avif"
+        ]
+      }
+    },
+    "29.5": {
+      "title": "Vol 3 Chap 29.5",
+      "volume": "3",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/aivh7c.avif"
+        ]
+      }
+    },
+    "30": {
+      "title": "Vol 3 Chap 30",
+      "volume": "3",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/1o6ks8.avif",
+          "https://files.catbox.moe/do96iy.avif",
+          "https://files.catbox.moe/zyqj8q.avif",
+          "https://files.catbox.moe/l83ri5.avif",
+          "https://files.catbox.moe/xcr3z5.avif",
+          "https://files.catbox.moe/g7typ7.avif",
+          "https://files.catbox.moe/0ucefl.avif",
+          "https://files.catbox.moe/nx5niy.avif",
+          "https://files.catbox.moe/vi0dh4.avif",
+          "https://files.catbox.moe/e1kokf.avif",
+          "https://files.catbox.moe/18eif0.avif"
+        ]
+      }
+    },
+    "30.5": {
+      "title": "Vol 3 Chap 30.5",
+      "volume": "3",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/ki50wa.avif"
+        ]
+      }
+    },
+    "31": {
+      "title": "Vol 3 Chap 31",
+      "volume": "3",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/i8v81j.avif",
+          "https://files.catbox.moe/9far9p.avif",
+          "https://files.catbox.moe/jw16h6.avif",
+          "https://files.catbox.moe/pnkjvi.avif",
+          "https://files.catbox.moe/16gojs.avif",
+          "https://files.catbox.moe/swzq9p.avif",
+          "https://files.catbox.moe/7krh3e.avif",
+          "https://files.catbox.moe/uu2s8f.avif",
+          "https://files.catbox.moe/lxskhm.avif",
+          "https://files.catbox.moe/s98kvp.avif",
+          "https://files.catbox.moe/j1z86y.avif",
+          "https://files.catbox.moe/sv70za.avif"
+        ]
+      }
+    },
+    "31.5": {
+      "title": "Vol 3 Chap 31.5",
+      "volume": "3",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/t08rlx.avif"
+        ]
+      }
+    },
+    "32": {
+      "title": "Vol 3 Chap 32",
+      "volume": "3",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/cc3kcg.avif",
+          "https://files.catbox.moe/unnei7.avif",
+          "https://files.catbox.moe/w9o7kd.avif",
+          "https://files.catbox.moe/j63gi6.avif",
+          "https://files.catbox.moe/08oi8o.avif",
+          "https://files.catbox.moe/xa7p8l.avif",
+          "https://files.catbox.moe/68y2js.avif",
+          "https://files.catbox.moe/0suwqh.avif",
+          "https://files.catbox.moe/gey2av.avif",
+          "https://files.catbox.moe/7xb3ht.avif",
+          "https://files.catbox.moe/kx8f6l.avif"
+        ]
+      }
+    },
+    "32.5": {
+      "title": "Vol 3 Chap 32.5",
+      "volume": "3",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/ht0dh4.avif"
+        ]
+      }
+    },
+    "32.6": {
+      "title": "Vol 3 Chap 32.6",
+      "volume": "3",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/zt53za.avif",
+          "https://files.catbox.moe/nax2r7.avif",
+          "https://files.catbox.moe/f4opq5.avif",
+          "https://files.catbox.moe/nksef2.avif",
+          "https://files.catbox.moe/j4jgx5.avif",
+          "https://files.catbox.moe/lfmnxu.avif",
+          "https://files.catbox.moe/r48xr2.avif",
+          "https://files.catbox.moe/eotivh.avif",
+          "https://files.catbox.moe/g2f180.avif",
+          "https://files.catbox.moe/6rrgy9.avif",
+          "https://files.catbox.moe/tlr3nm.avif"
+        ]
+      }
+    },
+    "33": {
+      "title": "Vol 4 Chap 33",
+      "volume": "4",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/6p1vo2.avif",
+          "https://files.catbox.moe/dpp0uz.avif",
+          "https://files.catbox.moe/n203rj.avif",
+          "https://files.catbox.moe/hqozz9.avif",
+          "https://files.catbox.moe/vx9cme.avif",
+          "https://files.catbox.moe/05n3ue.avif",
+          "https://files.catbox.moe/c1vcf5.avif",
+          "https://files.catbox.moe/ohp24u.avif",
+          "https://files.catbox.moe/vrk2vf.avif",
+          "https://files.catbox.moe/q0fjyx.avif",
+          "https://files.catbox.moe/09jocx.avif",
+          "https://files.catbox.moe/c3l5hp.avif",
+          "https://files.catbox.moe/f4rvmr.avif"
+        ]
+      }
+    },
+    "33.5": {
+      "title": "Vol 4 Chap 33.5",
+      "volume": "4",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/ie6v39.avif"
+        ]
+      }
+    },
+    "34": {
+      "title": "Vol 4 Chap 34",
+      "volume": "4",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/eccfsm.avif",
+          "https://files.catbox.moe/yud1gy.avif",
+          "https://files.catbox.moe/z68gmh.avif",
+          "https://files.catbox.moe/gadg5c.avif",
+          "https://files.catbox.moe/fke7lr.avif",
+          "https://files.catbox.moe/qr1n5m.avif",
+          "https://files.catbox.moe/4vc1hc.avif",
+          "https://files.catbox.moe/6u79zc.avif",
+          "https://files.catbox.moe/c9i9le.avif",
+          "https://files.catbox.moe/t65111.avif",
+          "https://files.catbox.moe/qg1v5h.avif",
+          "https://files.catbox.moe/xq3o69.avif",
+          "https://files.catbox.moe/mnwi1u.avif"
+        ]
+      }
+    },
+    "34.5": {
+      "title": "Vol 4 Chap 34.5",
+      "volume": "4",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/t876qm.avif"
+        ]
+      }
+    },
+    "35": {
+      "title": "Vol 4 Chap 35",
+      "volume": "4",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/145exv.avif",
+          "https://files.catbox.moe/kddc8p.avif",
+          "https://files.catbox.moe/kp3rib.avif",
+          "https://files.catbox.moe/ms9a6d.avif",
+          "https://files.catbox.moe/5rxjs1.avif",
+          "https://files.catbox.moe/c0btxd.avif",
+          "https://files.catbox.moe/h7ryex.avif",
+          "https://files.catbox.moe/o8rwo9.avif",
+          "https://files.catbox.moe/lhstbs.avif",
+          "https://files.catbox.moe/t38vyl.avif",
+          "https://files.catbox.moe/tlbwma.avif",
+          "https://files.catbox.moe/zdlwcj.avif",
+          "https://files.catbox.moe/505ilf.avif",
+          "https://files.catbox.moe/ber8bb.avif",
+          "https://files.catbox.moe/o8rqe6.avif",
+          "https://files.catbox.moe/dnw2yc.avif"
+        ]
+      }
+    },
+    "35.5": {
+      "title": "Vol 4 Chap 35.5",
+      "volume": "4",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/fazxvh.avif"
+        ]
+      }
+    },
+    "36": {
+      "title": "Vol 4 Chap 36",
+      "volume": "4",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/ixkox9.avif",
+          "https://files.catbox.moe/3glhpd.avif",
+          "https://files.catbox.moe/ecj8eb.avif",
+          "https://files.catbox.moe/ckiew0.avif",
+          "https://files.catbox.moe/xzk8h9.avif",
+          "https://files.catbox.moe/kqywpl.avif",
+          "https://files.catbox.moe/nr0knz.avif",
+          "https://files.catbox.moe/f9528w.avif",
+          "https://files.catbox.moe/svpm04.avif"
+        ]
+      }
+    },
+    "36.5": {
+      "title": "Vol 4 Chap 36.5",
+      "volume": "4",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/kgpuza.avif"
+        ]
+      }
+    },
+    "37": {
+      "title": "Vol 4 Chap 37",
+      "volume": "4",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/cr9cmm.avif",
+          "https://files.catbox.moe/8x7p13.avif",
+          "https://files.catbox.moe/8qd5tt.avif",
+          "https://files.catbox.moe/0rqokk.avif",
+          "https://files.catbox.moe/6wjgw2.avif",
+          "https://files.catbox.moe/5z47og.avif",
+          "https://files.catbox.moe/v3ca9v.avif",
+          "https://files.catbox.moe/24wlfd.avif",
+          "https://files.catbox.moe/e5c98i.avif",
+          "https://files.catbox.moe/pxtr3v.avif",
+          "https://files.catbox.moe/p4eumo.avif"
+        ]
+      }
+    },
+    "37.5": {
+      "title": "Vol 4 Chap 37.5",
+      "volume": "4",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/u0fqz3.avif"
+        ]
+      }
+    },
+    "38": {
+      "title": "Vol 4 Chap 38",
+      "volume": "4",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/kh3vgo.avif",
+          "https://files.catbox.moe/lchw7n.avif",
+          "https://files.catbox.moe/cl1mcc.avif",
+          "https://files.catbox.moe/2bmky8.avif",
+          "https://files.catbox.moe/jflhrw.avif",
+          "https://files.catbox.moe/gymlf8.avif",
+          "https://files.catbox.moe/il6tq9.avif",
+          "https://files.catbox.moe/3dzs9e.avif",
+          "https://files.catbox.moe/gzrxg3.avif"
+        ]
+      }
+    },
+    "38.5": {
+      "title": "Vol 4 Chap 38.5",
+      "volume": "4",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/rbpns4.avif"
+        ]
+      }
+    },
+    "39": {
+      "title": "Vol 4 Chap 39",
+      "volume": "4",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/aa4moi.avif",
+          "https://files.catbox.moe/nk83zx.avif",
+          "https://files.catbox.moe/jja36i.avif",
+          "https://files.catbox.moe/j9si2c.avif",
+          "https://files.catbox.moe/5zpzt8.avif",
+          "https://files.catbox.moe/9fh1qe.avif",
+          "https://files.catbox.moe/d0meih.avif",
+          "https://files.catbox.moe/145t3a.avif",
+          "https://files.catbox.moe/7vo5uk.avif",
+          "https://files.catbox.moe/wglrk5.avif",
+          "https://files.catbox.moe/sxo1az.avif",
+          "https://files.catbox.moe/7nwf0z.avif",
+          "https://files.catbox.moe/4uxrnk.avif"
+        ]
+      }
+    },
+    "39.5": {
+      "title": "Vol 4 Chap 39.5",
+      "volume": "4",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/wic6vk.avif"
+        ]
+      }
+    },
+    "40": {
+      "title": "Vol 4 Chap 40",
+      "volume": "4",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/4f77w6.avif",
+          "https://files.catbox.moe/lpb4r0.avif",
+          "https://files.catbox.moe/4mmqu9.avif",
+          "https://files.catbox.moe/lg4mr6.avif",
+          "https://files.catbox.moe/m3qqv9.avif",
+          "https://files.catbox.moe/cye8u0.avif",
+          "https://files.catbox.moe/rm2ik4.avif",
+          "https://files.catbox.moe/kvuylr.avif",
+          "https://files.catbox.moe/vh9p4w.avif",
+          "https://files.catbox.moe/7juoio.avif",
+          "https://files.catbox.moe/9tbv6r.avif"
+        ]
+      }
+    },
+    "40.5": {
+      "title": "Vol 4 Chap 40.5",
+      "volume": "4",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/fzxvea.avif"
+        ]
+      }
+    },
+    "41": {
+      "title": "Vol 4 Chap 41",
+      "volume": "4",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/n1iiq4.avif",
+          "https://files.catbox.moe/4h8txx.avif",
+          "https://files.catbox.moe/lfof1l.avif",
+          "https://files.catbox.moe/fettqe.avif",
+          "https://files.catbox.moe/6jeh1h.avif",
+          "https://files.catbox.moe/2nntzy.avif",
+          "https://files.catbox.moe/ufchel.avif",
+          "https://files.catbox.moe/9ti3tq.avif",
+          "https://files.catbox.moe/drm5o3.avif",
+          "https://files.catbox.moe/pml6l5.avif",
+          "https://files.catbox.moe/6a6mm0.avif",
+          "https://files.catbox.moe/emwlna.avif",
+          "https://files.catbox.moe/5aerxs.avif"
+        ]
+      }
+    },
+    "41.5": {
+      "title": "Vol 4 Chap 41.5",
+      "volume": "4",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/h3kw8d.avif"
+        ]
+      }
+    },
+    "42": {
+      "title": "Vol 4 Chap 42",
+      "volume": "4",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/c3zb85.avif",
+          "https://files.catbox.moe/1w515t.avif",
+          "https://files.catbox.moe/tjafol.avif",
+          "https://files.catbox.moe/rlcr5a.avif",
+          "https://files.catbox.moe/gv07a2.avif",
+          "https://files.catbox.moe/jkj8ju.avif",
+          "https://files.catbox.moe/q3xb54.avif",
+          "https://files.catbox.moe/8rwhw4.avif",
+          "https://files.catbox.moe/n1codr.avif",
+          "https://files.catbox.moe/8qbg5k.avif"
+        ]
+      }
+    },
+    "42.5": {
+      "title": "Vol 4 Chap 42.5",
+      "volume": "4",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/i5t9xk.avif"
+        ]
+      }
+    },
+    "43": {
+      "title": "Vol 4 Chap 43",
+      "volume": "4",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/afb0y0.avif",
+          "https://files.catbox.moe/1w5l4f.avif",
+          "https://files.catbox.moe/n6x67j.avif",
+          "https://files.catbox.moe/xlo5np.avif",
+          "https://files.catbox.moe/k3c541.avif",
+          "https://files.catbox.moe/gv0rp9.avif",
+          "https://files.catbox.moe/of4civ.avif",
+          "https://files.catbox.moe/cs7tl0.avif",
+          "https://files.catbox.moe/htmqh7.avif",
+          "https://files.catbox.moe/6kao5p.avif",
+          "https://files.catbox.moe/ha5vyu.avif",
+          "https://files.catbox.moe/pia3vv.avif",
+          "https://files.catbox.moe/ohfo5p.avif",
+          "https://files.catbox.moe/tswsjs.avif"
+        ]
+      }
+    },
+    "43.5": {
+      "title": "Vol 4 Chap 43.5",
+      "volume": "4",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/dx3vmg.avif"
+        ]
+      }
+    },
+    "44": {
+      "title": "Vol 4 Chap 44",
+      "volume": "4",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/zj4t6l.avif",
+          "https://files.catbox.moe/6uze2m.avif",
+          "https://files.catbox.moe/pihmi9.avif",
+          "https://files.catbox.moe/xa2jzk.avif",
+          "https://files.catbox.moe/h7lx6r.avif",
+          "https://files.catbox.moe/ooui7l.avif",
+          "https://files.catbox.moe/lgjvx3.avif",
+          "https://files.catbox.moe/4npxcs.avif",
+          "https://files.catbox.moe/qdy24e.avif",
+          "https://files.catbox.moe/2i8eh1.avif",
+          "https://files.catbox.moe/d1gltj.avif",
+          "https://files.catbox.moe/7o8bx4.avif",
+          "https://files.catbox.moe/sg3l5w.avif"
+        ]
+      }
+    },
+    "44.5": {
+      "title": "Vol 4 Chap 44.5",
+      "volume": "4",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/7mly1r.avif"
+        ]
+      }
+    },
+    "45": {
+      "title": "Vol 4 Chap 45",
+      "volume": "4",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/ly14to.avif",
+          "https://files.catbox.moe/szeemx.avif",
+          "https://files.catbox.moe/59f326.avif",
+          "https://files.catbox.moe/57amax.avif",
+          "https://files.catbox.moe/b3vfs1.avif",
+          "https://files.catbox.moe/6i8pny.avif",
+          "https://files.catbox.moe/8wcemh.avif",
+          "https://files.catbox.moe/o7q39w.avif",
+          "https://files.catbox.moe/n7jkpf.avif",
+          "https://files.catbox.moe/u77hx7.avif",
+          "https://files.catbox.moe/vosrk8.avif",
+          "https://files.catbox.moe/7oexm4.avif",
+          "https://files.catbox.moe/cmacni.avif",
+          "https://files.catbox.moe/9zgvty.avif",
+          "https://files.catbox.moe/1hrxos.avif"
+        ]
+      }
+    },
+    "45.5": {
+      "title": "Vol 4 Chap 45.5",
+      "volume": "4",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/3e84a4.avif"
+        ]
+      }
+    },
+    "46": {
+      "title": "Vol 4 Chap 46",
+      "volume": "4",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/r9acuf.avif",
+          "https://files.catbox.moe/8t9r8l.avif",
+          "https://files.catbox.moe/c1asnl.avif",
+          "https://files.catbox.moe/j0ooy6.avif",
+          "https://files.catbox.moe/0di1gk.avif",
+          "https://files.catbox.moe/mllo2h.avif",
+          "https://files.catbox.moe/9ris9y.avif",
+          "https://files.catbox.moe/a94g8d.avif",
+          "https://files.catbox.moe/i5r9vx.avif",
+          "https://files.catbox.moe/093lfj.avif",
+          "https://files.catbox.moe/hv2rv0.avif",
+          "https://files.catbox.moe/64qivm.avif"
+        ]
+      }
+    },
+    "46.5": {
+      "title": "Vol 4 Chap 46.5",
+      "volume": "4",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/e2gted.avif"
+        ]
+      }
+    },
+    "47": {
+      "title": "Vol 4 Chap 47",
+      "volume": "4",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/xwynrf.avif",
+          "https://files.catbox.moe/e7se9h.avif",
+          "https://files.catbox.moe/v5vok2.avif",
+          "https://files.catbox.moe/bg8u20.avif",
+          "https://files.catbox.moe/ncxioy.avif",
+          "https://files.catbox.moe/n95n06.avif",
+          "https://files.catbox.moe/6kmlhz.avif",
+          "https://files.catbox.moe/2ptyhf.avif",
+          "https://files.catbox.moe/j1n38c.avif",
+          "https://files.catbox.moe/xungix.avif",
+          "https://files.catbox.moe/v2hv6u.avif",
+          "https://files.catbox.moe/swlv1s.avif",
+          "https://files.catbox.moe/6ce7s5.avif",
+          "https://files.catbox.moe/g9lgds.avif",
+          "https://files.catbox.moe/nau022.avif"
+        ]
+      }
+    },
+    "47.5": {
+      "title": "Vol 4 Chap 47.5",
+      "volume": "4",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/usoeyi.avif"
+        ]
+      }
+    },
+    "48": {
+      "title": "Vol 4 Chap 48",
+      "volume": "4",
+      "last_updated": 1751446374,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/tkemog.avif",
+          "https://files.catbox.moe/bkd76i.avif",
+          "https://files.catbox.moe/dpwfpr.avif",
+          "https://files.catbox.moe/1ewthr.avif",
+          "https://files.catbox.moe/j65ur5.avif",
+          "https://files.catbox.moe/otiamh.avif",
+          "https://files.catbox.moe/f2qcl1.avif",
+          "https://files.catbox.moe/1ax0ew.avif",
+          "https://files.catbox.moe/6pz8wn.avif",
+          "https://files.catbox.moe/385e61.avif",
+          "https://files.catbox.moe/9ljdeh.avif",
+          "https://files.catbox.moe/nyr5zm.avif",
+          "https://files.catbox.moe/spezdb.avif"
         ]
       }
     }
