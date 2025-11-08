@@ -56,43 +56,6 @@
         ]
       }
     },
-    "2": {
-      "title": "Vol 2 Chương 9",
-      "volume": "9",
-      "last_updated": 1762579757,
-      "groups": {
-        "SAM Shelter, Machiya Lười Dịch Truyện, Tranquan": [
-          "https://files.catbox.moe/ls14a5.avif",
-          "https://files.catbox.moe/zmis3r.avif",
-          "https://files.catbox.moe/8gdgn5.avif",
-          "https://files.catbox.moe/s1813j.avif",
-          "https://files.catbox.moe/alkrwz.avif",
-          "https://files.catbox.moe/o64s0p.avif",
-          "https://files.catbox.moe/jc38vl.avif",
-          "https://files.catbox.moe/inw1nh.avif",
-          "https://files.catbox.moe/c4hddz.avif",
-          "https://files.catbox.moe/24xbt7.avif",
-          "https://files.catbox.moe/o1tld3.avif",
-          "https://files.catbox.moe/nfvhlw.avif",
-          "https://files.catbox.moe/732ix6.avif",
-          "https://files.catbox.moe/p47gx9.avif",
-          "https://files.catbox.moe/gculq7.avif",
-          "https://files.catbox.moe/tf7bsb.avif",
-          "https://files.catbox.moe/7il0qx.avif",
-          "https://files.catbox.moe/ei26t2.avif",
-          "https://files.catbox.moe/2f9rya.avif",
-          "https://files.catbox.moe/zygqku.avif",
-          "https://files.catbox.moe/vl9ksl.avif",
-          "https://files.catbox.moe/3bhuvj.avif",
-          "https://files.catbox.moe/wq28zt.avif",
-          "https://files.catbox.moe/7genuo.avif",
-          "https://files.catbox.moe/4hf2lt.avif",
-          "https://files.catbox.moe/lpx4jb.avif",
-          "https://files.catbox.moe/ylf7hz.avif",
-          "https://files.catbox.moe/w999ag.avif"
-        ]
-      }
-    },
     "3": {
       "title": "Vol 1 Chương 3",
       "volume": "1",
@@ -172,26 +135,6 @@
           "https://files.catbox.moe/rvd83o.avif",
           "https://files.catbox.moe/rmh1ix.avif",
           "https://files.catbox.moe/k1v05l.avif"
-        ]
-      }
-    },
-    "4.5": {
-      "title": "Vol 1 Chương 4.5 - Vol 1 Extra",
-      "volume": "1",
-      "last_updated": 1751458080,
-      "groups": {
-        "SAM Shelter, Machiya Lười Dịch Truyện": [
-          "https://files.catbox.moe/strae2.avif",
-          "https://files.catbox.moe/837rho.avif",
-          "https://files.catbox.moe/1bvd3f.avif",
-          "https://files.catbox.moe/wrepur.avif",
-          "https://files.catbox.moe/memvvv.avif",
-          "https://files.catbox.moe/auer46.avif",
-          "https://files.catbox.moe/bhz068.avif",
-          "https://files.catbox.moe/tj3eub.avif",
-          "https://files.catbox.moe/gjxkjt.avif",
-          "https://files.catbox.moe/inlpyu.avif",
-          "https://files.catbox.moe/1g14hd.avif"
         ]
       }
     },
@@ -364,6 +307,63 @@
           "https://files.catbox.moe/zh2pyh.avif",
           "https://files.catbox.moe/hcimr9.avif",
           ""
+        ]
+      }
+    },
+    "9": {
+      "title": "9",
+      "volume": "2",
+      "last_updated": "1762579874",
+      "groups": {
+        "SAM Shelter, Machiya Lười Dịch Truyện. Tranquan": [
+          "https://files.catbox.moe/ls14a5.avif",
+          "https://files.catbox.moe/zmis3r.avif",
+          "https://files.catbox.moe/8gdgn5.avif",
+          "https://files.catbox.moe/s1813j.avif",
+          "https://files.catbox.moe/alkrwz.avif",
+          "https://files.catbox.moe/o64s0p.avif",
+          "https://files.catbox.moe/jc38vl.avif",
+          "https://files.catbox.moe/inw1nh.avif",
+          "https://files.catbox.moe/c4hddz.avif",
+          "https://files.catbox.moe/24xbt7.avif",
+          "https://files.catbox.moe/o1tld3.avif",
+          "https://files.catbox.moe/nfvhlw.avif",
+          "https://files.catbox.moe/732ix6.avif",
+          "https://files.catbox.moe/p47gx9.avif",
+          "https://files.catbox.moe/gculq7.avif",
+          "https://files.catbox.moe/tf7bsb.avif",
+          "https://files.catbox.moe/7il0qx.avif",
+          "https://files.catbox.moe/ei26t2.avif",
+          "https://files.catbox.moe/2f9rya.avif",
+          "https://files.catbox.moe/zygqku.avif",
+          "https://files.catbox.moe/vl9ksl.avif",
+          "https://files.catbox.moe/3bhuvj.avif",
+          "https://files.catbox.moe/wq28zt.avif",
+          "https://files.catbox.moe/7genuo.avif",
+          "https://files.catbox.moe/4hf2lt.avif",
+          "https://files.catbox.moe/lpx4jb.avif",
+          "https://files.catbox.moe/ylf7hz.avif",
+          "https://files.catbox.moe/w999ag.avif"
+        ]
+      }
+    },
+    "4.5": {
+      "title": "Vol 1 Chương 4.5 - Vol 1 Extra",
+      "volume": "1",
+      "last_updated": 1751458080,
+      "groups": {
+        "SAM Shelter, Machiya Lười Dịch Truyện": [
+          "https://files.catbox.moe/strae2.avif",
+          "https://files.catbox.moe/837rho.avif",
+          "https://files.catbox.moe/1bvd3f.avif",
+          "https://files.catbox.moe/wrepur.avif",
+          "https://files.catbox.moe/memvvv.avif",
+          "https://files.catbox.moe/auer46.avif",
+          "https://files.catbox.moe/bhz068.avif",
+          "https://files.catbox.moe/tj3eub.avif",
+          "https://files.catbox.moe/gjxkjt.avif",
+          "https://files.catbox.moe/inlpyu.avif",
+          "https://files.catbox.moe/1g14hd.avif"
         ]
       }
     }
