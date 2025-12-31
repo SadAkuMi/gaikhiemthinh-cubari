@@ -3,7 +3,7 @@
   "description": "### Thể loại\nRomance, Comedy, School Life, Slice of Life, Time Travel, Reincarnation, Adaption\n\n## Tiêu đề\n- Tiếng Anh: My Ex-Wife is Young Again and She's in my Class\n- Tiếng Việt: Có Nhỏ Vợ Cũ Hồi Xuân Trong Lớp Tôi\n- Tiếng Nhật: 俺のクラスに若返った元嫁がいる\n- Romanji: Ore no Kurasu ni Wakagaetta Moto Yome ga Iru\n\n# Nội dung\n(Đang cập nhật)\n\n## Link:\n- Fanpage: [SAM Shelter](https://fb.com/samshelter18)\n- Mangadex: [Click here](https://mangadex.org/title/0cf1c1c7-2894-4b4d-a3cc-3e1501fb3e36/ore-no-kurasu-ni-wakagaetta-moto-yome-ga-iru)",
   "artist": "aknbou",
   "author": "Nekomata Nuko",
-  "cover": "https://files.catbox.moe/8rldhh.png",
+  "cover": "https://files.catbox.moe/9hrqx6.png",
   "chapters": {
     "1": {
       "title": "Vol 1 Chương 1",
@@ -135,26 +135,6 @@
           "https://files.catbox.moe/rvd83o.avif",
           "https://files.catbox.moe/rmh1ix.avif",
           "https://files.catbox.moe/k1v05l.avif"
-        ]
-      }
-    },
-    "4.5": {
-      "title": "Vol 1 Chương 4.5 - Vol 1 Extra",
-      "volume": "1",
-      "last_updated": 1751458080,
-      "groups": {
-        "SAM Shelter, Machiya Lười Dịch Truyện": [
-          "https://files.catbox.moe/strae2.avif",
-          "https://files.catbox.moe/837rho.avif",
-          "https://files.catbox.moe/1bvd3f.avif",
-          "https://files.catbox.moe/wrepur.avif",
-          "https://files.catbox.moe/memvvv.avif",
-          "https://files.catbox.moe/auer46.avif",
-          "https://files.catbox.moe/bhz068.avif",
-          "https://files.catbox.moe/tj3eub.avif",
-          "https://files.catbox.moe/gjxkjt.avif",
-          "https://files.catbox.moe/inlpyu.avif",
-          "https://files.catbox.moe/1g14hd.avif"
         ]
       }
     },
@@ -369,9 +349,9 @@
     "10": {
       "title": "Vol 2 Chương 10 (End)",
       "volume": "2",
-      "last_updated": 1767182400,
+      "last_updated": "1767182400",
       "groups": {
-        "SAM Shelter": [
+        "SAM Shelter, Machiya Lười Dịch Truyện": [
           "https://files.catbox.moe/z9tlx9.avif",
           "https://files.catbox.moe/qcz188.avif",
           "https://files.catbox.moe/s1pvqb.avif",
@@ -410,6 +390,26 @@
           "https://files.catbox.moe/nraq9h.avif",
           "https://files.catbox.moe/fcu4fn.avif",
           "https://files.catbox.moe/gr09ha.avif"
+        ]
+      }
+    },
+    "4.5": {
+      "title": "Vol 1 Chương 4.5 - Vol 1 Extra",
+      "volume": "1",
+      "last_updated": 1751458080,
+      "groups": {
+        "SAM Shelter, Machiya Lười Dịch Truyện": [
+          "https://files.catbox.moe/strae2.avif",
+          "https://files.catbox.moe/837rho.avif",
+          "https://files.catbox.moe/1bvd3f.avif",
+          "https://files.catbox.moe/wrepur.avif",
+          "https://files.catbox.moe/memvvv.avif",
+          "https://files.catbox.moe/auer46.avif",
+          "https://files.catbox.moe/bhz068.avif",
+          "https://files.catbox.moe/tj3eub.avif",
+          "https://files.catbox.moe/gjxkjt.avif",
+          "https://files.catbox.moe/inlpyu.avif",
+          "https://files.catbox.moe/1g14hd.avif"
         ]
       }
     }
