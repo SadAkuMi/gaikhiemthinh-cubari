@@ -138,6 +138,26 @@
         ]
       }
     },
+    "4.5": {
+      "title": "Vol 1 Chương 4.5 - Vol 1 Extra",
+      "volume": "1",
+      "last_updated": 1751458080,
+      "groups": {
+        "SAM Shelter, Machiya Lười Dịch Truyện": [
+          "https://files.catbox.moe/strae2.avif",
+          "https://files.catbox.moe/837rho.avif",
+          "https://files.catbox.moe/1bvd3f.avif",
+          "https://files.catbox.moe/wrepur.avif",
+          "https://files.catbox.moe/memvvv.avif",
+          "https://files.catbox.moe/auer46.avif",
+          "https://files.catbox.moe/bhz068.avif",
+          "https://files.catbox.moe/tj3eub.avif",
+          "https://files.catbox.moe/gjxkjt.avif",
+          "https://files.catbox.moe/inlpyu.avif",
+          "https://files.catbox.moe/1g14hd.avif"
+        ]
+      }
+    },
     "5": {
       "title": "Vol 2 Chương 5",
       "volume": "2",
@@ -393,23 +413,21 @@
         ]
       }
     },
-    "4.5": {
-      "title": "Vol 1 Chương 4.5 - Vol 1 Extra",
-      "volume": "1",
-      "last_updated": 1751458080,
+    "10.5": {
+      "title": "Vol 2 Extra",
+      "volume": "2",
+      "last_updated": 1767181861,
       "groups": {
-        "SAM Shelter, Machiya Lười Dịch Truyện": [
-          "https://files.catbox.moe/strae2.avif",
-          "https://files.catbox.moe/837rho.avif",
-          "https://files.catbox.moe/1bvd3f.avif",
-          "https://files.catbox.moe/wrepur.avif",
-          "https://files.catbox.moe/memvvv.avif",
-          "https://files.catbox.moe/auer46.avif",
-          "https://files.catbox.moe/bhz068.avif",
-          "https://files.catbox.moe/tj3eub.avif",
-          "https://files.catbox.moe/gjxkjt.avif",
-          "https://files.catbox.moe/inlpyu.avif",
-          "https://files.catbox.moe/1g14hd.avif"
+        "SAM Shelter, Machiya Lười Dịch Truyện, Tranquan": [
+          "https://files.catbox.moe/1f8roi.avif",
+          "https://files.catbox.moe/62iuho.avif",
+          "https://files.catbox.moe/ult7va.avif",
+          "https://files.catbox.moe/pk1zg9.avif",
+          "https://files.catbox.moe/o9owxr.avif",
+          "https://files.catbox.moe/g5oazd.avif",
+          "https://files.catbox.moe/bi1zh4.avif",
+          "https://files.catbox.moe/hf472g.avif",
+          "https://files.catbox.moe/4txz2b.avif"
         ]
       }
     }
