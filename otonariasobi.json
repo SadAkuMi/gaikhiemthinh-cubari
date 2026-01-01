@@ -4,5 +4,36 @@
   "artist": "Pentagon, Midorikawa You",
   "author": "Nekokuro",
   "cover": "https://files.catbox.moe/lymzbt.jpg",
-  "chapters": {}
+  "chapters": {
+    "18": {
+      "title": "Tập 3 Chương 18",
+      "volume": "3",
+      "last_updated": 1767266527,
+      "groups": {
+        "SAM Shelter": [
+          "https://files.catbox.moe/zvvsia.avif",
+          "https://files.catbox.moe/9pxymf.avif",
+          "https://files.catbox.moe/qm84q9.avif",
+          "https://files.catbox.moe/9giya1.avif",
+          "https://files.catbox.moe/o9xn2e.avif",
+          "https://files.catbox.moe/v1kj08.avif",
+          "https://files.catbox.moe/8rw7i4.avif",
+          "https://files.catbox.moe/3zx6li.avif",
+          "https://files.catbox.moe/welyrf.avif",
+          "https://files.catbox.moe/f72540.avif",
+          "https://files.catbox.moe/elnpe9.avif",
+          "https://files.catbox.moe/6yk44k.avif",
+          "https://files.catbox.moe/t6zxx5.avif",
+          "https://files.catbox.moe/wzy5fj.avif",
+          "https://files.catbox.moe/ng8wat.avif",
+          "https://files.catbox.moe/ecozzf.avif",
+          "https://files.catbox.moe/bzh3zv.avif",
+          "https://files.catbox.moe/27jzi4.avif",
+          "https://files.catbox.moe/0fuq8y.avif",
+          "https://files.catbox.moe/asmr9e.avif",
+          "https://files.catbox.moe/oq6kiz.avif"
+        ]
+      }
+    }
+  }
 }
