@@ -4,5 +4,38 @@
     "artist": "Toyobayashi Sakane",
     "author": "Toyobayashi Sakane",
     "cover": "https://files.catbox.moe/engham.png",
-    "chapters": {}
+    "chapters": {
+        "1": {
+            "title": "Con Đường Mùa Xuân",
+            "volume": "1",
+            "last_updated": 1772935405,
+            "groups": {
+                "Bé Sa Ở Tiệm Thuốc, Im Khok, VenusNè": [
+                    "https://files.catbox.moe/kqym9r.jpg",
+                    "https://files.catbox.moe/ixhapi.jpg",
+                    "https://files.catbox.moe/71o8ck.jpg",
+                    "https://files.catbox.moe/d5brn8.jpg",
+                    "https://files.catbox.moe/8blol1.jpg",
+                    "https://files.catbox.moe/vqg9cj.jpg",
+                    "https://files.catbox.moe/4ayf0h.jpg",
+                    "https://files.catbox.moe/cl8y39.jpg",
+                    "https://files.catbox.moe/q7ibzk.jpg",
+                    "https://files.catbox.moe/6kt2yc.jpg",
+                    "https://files.catbox.moe/qgnm19.jpg",
+                    "https://files.catbox.moe/c47m11.jpg",
+                    "https://files.catbox.moe/xo2b1n.jpg",
+                    "https://files.catbox.moe/f0vnq4.jpg",
+                    "https://files.catbox.moe/ij6ukr.jpg",
+                    "https://files.catbox.moe/jef2nq.jpg",
+                    "https://files.catbox.moe/6g41gt.jpg",
+                    "https://files.catbox.moe/rukys2.jpg",
+                    "https://files.catbox.moe/zgvqxw.jpg",
+                    "https://files.catbox.moe/t9l8l6.jpg",
+                    "https://files.catbox.moe/mvzbrm.jpg",
+                    "https://files.catbox.moe/ti1zm8.jpg",
+                    "https://files.catbox.moe/ywvge0.jpg"
+                ]
+            }
+        }
+    }
 }
