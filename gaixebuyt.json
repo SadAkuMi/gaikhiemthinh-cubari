@@ -909,8 +909,8 @@
         },
         "35": {
             "title": "Chương 35 - Nhật Ký",
-            "volume": null,
-            "last_updated": 1783266383,
+            "volume": "",
+            "last_updated": 1783267201,
             "groups": {
                 "SAM Shelter": [
                     "https://files.catbox.moe/1mp5fh.avif",
@@ -926,7 +926,13 @@
                     "https://files.catbox.moe/5jd69m.avif",
                     "https://files.catbox.moe/sv6397.avif",
                     "https://files.catbox.moe/rkum2a.avif",
-                    "https://files.catbox.moe/7fwp94.avif"
+                    "https://files.catbox.moe/7fwp94.avif",
+                    "https://files.catbox.moe/paojzz.avif",
+                    "https://files.catbox.moe/vnrcfl.avif",
+                    "https://files.catbox.moe/kqtsks.avif",
+                    "https://files.catbox.moe/g9glho.avif",
+                    "https://files.catbox.moe/esmxp5.avif",
+                    "https://files.catbox.moe/2mcech.avif"
                 ]
             }
         }
