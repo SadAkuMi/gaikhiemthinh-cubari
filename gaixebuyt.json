@@ -6,7 +6,7 @@
     "cover": "https://files.catbox.moe/engham.png",
     "chapters": {
         "1": {
-            "title": "Con Đường Mùa Xuân",
+            "title": "Tập 1 Chương 1 - Con Đường Mùa Xuân",
             "volume": "1",
             "last_updated": 1772935405,
             "groups": {
@@ -38,7 +38,7 @@
             }
         },
         "2": {
-            "title": "Ngủ Quên",
+            "title": "Tập 1 Chương 2 - Ngủ Quên",
             "volume": "1",
             "last_updated": 1772935508,
             "groups": {
@@ -64,7 +64,7 @@
             }
         },
         "3": {
-            "title": "Cạnh Bên Trên Xe Buýt",
+            "title": "Tập 1 Chương 3 - Cạnh Bên Trên Xe Buýt",
             "volume": "1",
             "last_updated": 1772935652,
             "groups": {
@@ -92,7 +92,7 @@
             }
         },
         "4": {
-            "title": "Nút Chỉ",
+            "title": "Tập 1 Chương 4 - Nút Chỉ",
             "volume": "1",
             "last_updated": 1772935793,
             "groups": {
@@ -120,7 +120,7 @@
             }
         },
         "5": {
-            "title": "Hoa Nở",
+            "title": "Tập 1 Chương 5 - Hoa Nở",
             "volume": "1",
             "last_updated": 1772935899,
             "groups": {
@@ -144,7 +144,7 @@
             }
         },
         "6": {
-            "title": "Xõa Tóc",
+            "title": "Tập 1 Chương 6 - Xõa Tóc",
             "volume": "1",
             "last_updated": 1772936029,
             "groups": {
@@ -166,7 +166,7 @@
             }
         },
         "7": {
-            "title": "Muta Ruruka",
+            "title": "Tập 1 Chương 7 - Muta Ruruka",
             "volume": "1",
             "last_updated": 1772936119,
             "groups": {
@@ -193,7 +193,7 @@
             }
         },
         "8": {
-            "title": "Người Mình Thích",
+            "title": "Tập 1 Chương 8 - Người Mình Thích",
             "volume": "1",
             "last_updated": 1772938272,
             "groups": {
@@ -221,7 +221,7 @@
             }
         },
         "9": {
-            "title": "Chủ Nhật",
+            "title": "Tập 1 Chương 9 - Chủ Nhật",
             "volume": "1",
             "last_updated": 1772939988,
             "groups": {
@@ -239,7 +239,7 @@
             }
         },
         "10": {
-            "title": "Điều Đặc Biệt",
+            "title": "Tập 1 Chương 10 - Điều Đặc Biệt",
             "volume": "1",
             "last_updated": 1772940211,
             "groups": {
@@ -267,7 +267,7 @@
             }
         },
         "11": {
-            "title": "Màu Sơn",
+            "title": "Tập 1 Chương 11 - Màu Sơn",
             "volume": "1",
             "last_updated": 1772940433,
             "groups": {
@@ -300,8 +300,8 @@
             }
         },
         "12": {
-            "title": "Bước Đầu Tiên",
-            "volume": "",
+            "title": "Tập 2 Chương 12 - Bước Đầu Tiên",
+            "volume": "2",
             "last_updated": 1772940637,
             "groups": {
                 "Bé Sa Ở Tiệm Thuốc, Im Khok,\nVenusNè": [
@@ -330,8 +330,8 @@
             }
         },
         "13": {
-            "title": "Matsuno-san",
-            "volume": "",
+            "title": "Tập 2 Chương 13 - Matsuno-san",
+            "volume": "2",
             "last_updated": 1772940754,
             "groups": {
                 "Bé Sa Ở Tiệm Thuốc, Im Khok,\nVenusNè": [
@@ -355,8 +355,8 @@
             }
         },
         "14": {
-            "title": "Nhảy Cao",
-            "volume": "",
+            "title": "Tập 2 Chương 14 - Nhảy Cao",
+            "volume": "2",
             "last_updated": 1772940872,
             "groups": {
                 "Im Khok": [
@@ -383,8 +383,8 @@
             }
         },
         "21": {
-            "title": "Chương 21 - Biển Ở Nơi Xa",
-            "volume": null,
+            "title": "Tập 2 Chương 21 - Biển Ở Nơi Xa",
+            "volume": "2",
             "last_updated": 1772941509,
             "groups": {
                 "SAM Shelter": [
@@ -413,8 +413,8 @@
             }
         },
         "17": {
-            "title": "Cùng Nhau",
-            "volume": "",
+            "title": "Tập 2 Chương 17 - Cùng Nhau",
+            "volume": "2",
             "last_updated": 1772942054,
             "groups": {
                 "Im Khok": [
@@ -441,8 +441,8 @@
             }
         },
         "16": {
-            "title": "Cố Lên Nhé!",
-            "volume": "",
+            "title": "Tập 2 Chương 16 - Cố Lên Nhé!",
+            "volume": "2",
             "last_updated": 1772943343,
             "groups": {
                 "Im Khok": [
@@ -489,8 +489,8 @@
             }
         },
         "15": {
-            "title": "Nghiêm Túc",
-            "volume": "",
+            "title": "Tập 2 Chương 15 - Nghiêm Túc",
+            "volume": "2",
             "last_updated": 1772943581,
             "groups": {
                 "Im Khok": [
@@ -515,8 +515,8 @@
             }
         },
         "18": {
-            "title": "Lặng Lẽ",
-            "volume": "",
+            "title": "Tập 2 Chương 18 - Lặng Lẽ",
+            "volume": "2",
             "last_updated": 1772943674,
             "groups": {
                 "Im Khok": [
@@ -533,8 +533,8 @@
             }
         },
         "22": {
-            "title": "Chương 22 - Nơi Cuối Con Đường",
-            "volume": null,
+            "title": "Tập 2 Chương 22 - Nơi Cuối Con Đường",
+            "volume": "2",
             "last_updated": 1773936539,
             "groups": {
                 "SAM Shelter": [
